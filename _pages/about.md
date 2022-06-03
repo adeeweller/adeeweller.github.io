@@ -1,6 +1,6 @@
 ---
-permalink: /aboutme/
-title: "About Me"
+permalink: /about/
+title: "About"
 ---
 
 I am a second-year Ph.D. student in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). I study the intersection of organized crime and politics. 
