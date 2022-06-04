@@ -56,9 +56,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Adee Weller"
-  avatar : "/assets/images/Adee_Weller_EMORY.jpg"
-  bio    : "I am a Ph.D. student of Political Science at Emory University. I study organized crime in Latin America and its intersection with politics."
+  name     : "Adee Weller"
+  avatar   : "/assets/images/Adee_Weller_EMORY.jpg"
+  bio      : "I am a Ph.D. student of Political Science at Emory University. I study organized crime in Latin America and its intersection with politics."
+  location : "Atlanta, Georgia"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -67,7 +68,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AdeeWeller?t=4g8vwVEqvT9z4df_V9MZzQ&s=09"
     - label: "Linkedin"
-      icon: "fab fa fa-linkedin-square"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/adee-weller"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -97,7 +98,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -114,3 +115,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+lunr:
+  search_within_pages: true
+  search_full_content: true
