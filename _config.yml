@@ -92,11 +92,10 @@ footer:
  defaults:
  _posts
   - scope:
-      path: "about"
-      type: about
+      path: "posts"
+      type: posts
     values:
       layout: single
-      # layout: "default"
       author_profile: true
       read_time: true
       comments: false
