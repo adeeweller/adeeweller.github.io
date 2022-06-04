@@ -117,7 +117,3 @@ tag_archive:
   type: liquid
   path: /tags/
 
-
-lunr:
-  search_within_pages: true
-  search_full_content: true
