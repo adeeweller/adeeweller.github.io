@@ -1,8 +1,8 @@
-# Minimal Mistakes remote theme starter
+# Making this Website with Minimal Mistakes
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This website is created using the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
-Contains basic configuration to get you a site with:
+If you want an easy way to make your own website using this template, [**follow this link**](https://github.com/mmistakes/mm-github-pages-starter/generate) to make a quick starter. This link contains basic configuration for your site such as:
 
 - Sample posts.
 - Sample top navigation.
