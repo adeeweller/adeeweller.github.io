@@ -95,8 +95,8 @@ footer:
       path: "about"
       type: about
     values:
-      # layout: single
-      layout: "default"
+      layout: single
+      # layout: "default"
       author_profile: true
       read_time: true
       comments: false
