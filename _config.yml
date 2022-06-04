@@ -89,19 +89,19 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/adeeweller/"
 
-defaults:
-  # _posts
-  - scope:
-      path: "about"
-      type: about
-    values:
-      # layout: single
-      layout: "default"
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
+# defaults:
+#   # _posts
+#   - scope:
+#       path: "about"
+#       type: about
+#     values:
+#       # layout: single
+#       layout: "default"
+#       author_profile: true
+#       read_time: true
+#       comments: false
+#       share: true
+#       related: true
   # _pages
   # - scope:
   #     path: "_pages"
