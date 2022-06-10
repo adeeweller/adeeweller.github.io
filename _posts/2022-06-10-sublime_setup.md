@@ -1,13 +1,60 @@
-<!-- ---
-title: "Post: Notice"
+---
+title: "Using Sublime with R, LaTeX, Python, and more"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - notice
+  - text editor
+  - setup
+# link: https://github.com
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
+
+
+Are you looking for an easy, fast, and flexible text editor, but aren't sure where to start? Are you easily distracted and want all your files, programs, and projects in the same place? Do you want a editor than can handle a wide array of languages, programs, and platorms? Sublime Text Editor is may be a great fit.
+
+I first started using Sublime as a Political Science major in undergrad -- and I had no clue what I was doing. Like many others, I had no experience with any sort of coding, and just thinking about mysterious lines on a screen made my head spin.
+
+
+Here, let us walk through what Sublime is, why may be the right fit for you, and how to get it set up.
+
+## What is Sublime?
+
+Sublime is a text editor.
+
+
+
+You can think about Sublime as the swiss-army knife of text editing.
+
+
+## How to set it up?
+
+While downloading Sublime is easy, setting it up to work with R, LaTeX, and other platforms is often less straight forward. But don't be intimidated -- it can be quite easy and straight forward.
+
+download
+
+link somehow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- A notice displays information that explains nearby content. Often used to call attention to a particular detail.
 
 When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
 
