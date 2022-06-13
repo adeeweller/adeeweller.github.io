@@ -1,4 +1,5 @@
 ---
+toc: true
 permalink: /research/
 title: "Research"
 ---
