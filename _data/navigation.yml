@@ -7,6 +7,8 @@ main:
     url: /CV/
   - title: "Posts"
     url: /posts/
+  - title: "Contact"
+    url: /contact/
 # - title: "Splash"
 #   url: /testsplash/
 # - title: "Categories"
