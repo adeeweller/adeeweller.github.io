@@ -26,7 +26,8 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+permalink: /:about/
+# categories/:title
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -93,7 +94,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: about
+      type: posts
     values:
       layout: default
       author_profile: true
