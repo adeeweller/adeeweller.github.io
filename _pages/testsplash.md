@@ -3,8 +3,8 @@ layout: splash
 permalink: /testsplash/
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/snow-flatirons.jpg
+#   overlay_color: "#5e616c"
+#   overlay_image: /assets/images/snow-flatirons.jpg
 excerpt: >
   I am a second-year Ph.D. student in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html).
 feature_row:
