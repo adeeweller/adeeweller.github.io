@@ -1,4 +1,5 @@
 ---
+toc: true
 title: "Using Sublime with R, LaTeX, Python, and more"
 categories:
   - Blog
