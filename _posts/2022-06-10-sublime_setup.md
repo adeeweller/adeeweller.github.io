@@ -6,6 +6,7 @@ categories:
 tags:
   - text editor
   - setup
+author_profile: true
 # link: https://github.com
 ---
 
