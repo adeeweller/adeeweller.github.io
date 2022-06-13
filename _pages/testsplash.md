@@ -5,18 +5,13 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/snow-flatirons.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  I am a second-year Ph.D. student in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html).
 feature_row:
   - image_path: /assets/images/snow-flatirons.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "About Me"
+    excerpt: "I study the intersection of organized crime and politics. My research interests include the interactions between criminal actors, criminal governance, and the impacts of crime on local politics. In my research, I combine causal inference and formal modeling with qualitative and quantitative methods."
+    url: "/pages/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"     
 ---
