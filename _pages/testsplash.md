@@ -4,11 +4,11 @@ permalink: /testsplash/
 author_profile: true
 hidden: true
 header:
-   overlay_color: "#5e616c"
-   overlay_image: /assets/images/muted_green1.jpg
+#    overlay_color: "#5e616c"
+#    overlay_image: /assets/images/muted_green1.jpg
 # excerpt: >
 intro: 
-  - excerpt: 'I am a second-year Ph.D. student in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). Centered with `type="center"`'
+  - excerpt: 'I am a second-year Ph.D. student in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html).'
 feature_row:
   - image_path: /assets/images/Adee_Weller_EMORY.jpg
     title: "About Me"
