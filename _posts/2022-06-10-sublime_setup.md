@@ -8,8 +8,9 @@ tags:
 # link: https://github.com
 ---
 
-
-
+**Info Notice:** This page is currently under construction. Please check back in soon.
+{: .notice--info}
+<!-- 
 Are you looking for an easy, fast, and flexible text editor, but aren't sure where to start? Are you easily distracted and want all your files, programs, and projects in the same place? Do you want a editor than can handle a wide array of languages, programs, and platorms? Sublime Text Editor is may be a great fit.
 
 I first started using Sublime as a Political Science major in undergrad -- and I had no clue what I was doing. Like many others, I had no experience with any sort of coding, and just thinking about mysterious lines on a screen made my head spin.
@@ -32,7 +33,7 @@ While downloading Sublime is easy, setting it up to work with R, LaTeX, and othe
 
 download
 
-link somehow
+link somehow -->
 
 
 
