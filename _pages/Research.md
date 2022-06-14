@@ -1,5 +1,6 @@
 ---
 toc: true
+tocsticky: true
 author_profile: true
 permalink: /research/
 title: "Research"
