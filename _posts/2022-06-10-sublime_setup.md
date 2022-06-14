@@ -2,8 +2,8 @@
 toc: true
 toc_sticky: true
 title: "Setting Up Sublime Text with R, LaTeX, Python, and More"
-categories:
-  - Blog
+# categories:
+#   - Blog
 tags:
   - text editor
   - setup
@@ -34,12 +34,10 @@ To download Sublime, [follow this link to the Sublime webpage](https://www.subli
 
 That's it! You've successfully installed Sublime. Remember, if you are using the free unlimited trial, you may occasionally get a dialogue box prompting you to purchase a license, but if you wish to continue your trial, you can simply exit out of the box.
 
-For the rest of this tutorial, we will be using the extension management system called '**Package Control**.' This is used to install extensions, themes, and color schemes. Since Sublime does not come with Package Control, we will need to install it. To install anything, we need to first open the '**Command Palette**'. The shortcut for this is <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (<kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> on Mac), although you can also open it from the Preferences tab as well. Using the shortcut, a toolbar will drop down from the top, and search 'install.' The first option should be `Install Package Control.' Select it and hit <kbd>Enter<kbd>. It may take a minute.
+For the rest of this tutorial, we will be using the extension management system called '**Package Control**.' This is used to install extensions, themes, and color schemes. Since Sublime does not come with Package Control, we will need to install it. To install anything, we need to first open the '**Command Palette**'. The shortcut for this is <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (<kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> on Mac), although you can also open it from the Preferences tab. Using the shortcut, a toolbar will drop down from the top, and search 'install.' The first option should be `Install Package Control.' Select it and hit <kbd>Enter<kbd>. It may take a minute.
 
-<figure>
-    <a href="/assets/images/install_package_control2.jpg"><img src="/assets/images/install_package_control2.jpg"></a>
-    <figcaption>Installing Package Control</figcaption>
-</figure>
+
+![styled-image](/assets/images/install_package_control2.jpg "Installing Package Control"){: .align-center style="width: 5%;"}
 
 After it is installed, I would recommend closing Sublime and re-opening it before we move to the next steps.
 
