@@ -36,8 +36,7 @@ That's it! You've successfully installed Sublime. Remember, if you are using the
 For the rest of this tutorial, we will be using the extension management system called '**Package Control**.' This is used to install extensions, themes, and color schemes. Since Sublime does not come with Package Control, we will need to install it. To install anything, we need to first open the '**Command Palette**'. The shortcut for this is <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (<kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> on Mac), although you can also open it from the Preferences tab. Using the shortcut, a toolbar will drop down from the top, and search 'install.' The first option should be `Install Package Control.' Select it and hit <kbd>Enter<kbd>. It may take a minute.
 
 
-<!-- ![image-center](/assets/images/install_package_control2.jpg "Installing Package Control"){: .align-center style="width: 5%;"} -->
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/install_package_control2.jpg "Installing Package Control"){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/install_package_control.png "Installing Package Control"){: .align-center}
 
 After it is installed, I would recommend closing Sublime and re-opening it before we move to the next steps.
 
@@ -45,21 +44,56 @@ After it is installed, I would recommend closing Sublime and re-opening it befor
 
 Sublime can also be an alternative to RStudio. While the visualizations may not be as immediately accessible (for instance, there is no variable viewer in the corner of the screen), it can also be less distracting. Further, all the data remains easily accessible, and when simulateously writing in LaTeX, everything is in the same application. Again, for someone with a short attention span, the less distractions the better.
 
-To set up R with Sublime, 
+To set up R with Sublime, we first need to install the appropriate packages. Again, open the Command Package and search 'install.' Now, '**Package Controll: Install Package**' should be the first option. Select it and hit enter. This may take a moment.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/install_package_control2.jpg "Installing Packages"){: .align-center}
+
+From there, all the available repositories will be available to be chosen.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/package_control.jpg "Package Control"){: .align-center}
+
+
+You also need to download R. 
+
 
 ## Sublime Merge
 
 A cross-platform Git client via Sublime Text
 
 
-download
-
-link somehow 
 
 
 
 
+Terminus: Run a terminal shell within Sublime Text.
 
+SublimeMagick: 
+
+LaTeX Word Count
+
+LaTeXing
+
+Package Control
+
+Pandox
+
+R-Box
+
+View in Brower
+
+Citer: BibLatex citation handler with citation completions (when you hit @)
+
+Kite
+
+LaTeXTools
+
+R-IDE: A package maintained by randy3k that transforms Sublime into R-Studio with some cool features added.
+
+SendCode: Send your code to a terminal or program such as Terminus/Terminal/R-GUI/R-Studio.
+
+SublimeREPL
+
+LSP: An implementation of Microsoft Language Server Protocol for various programming languages. It provides a syntax check and function description.
 
 
 
