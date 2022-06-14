@@ -9,8 +9,8 @@ tags:
 # link: https://github.com
 ---
 
-**Info Notice:** This page is currently under construction. Please check back in soon.
-{: .notice--info}
+<!-- **Info Notice:** This page is currently under construction. Please check back in soon.
+{: .notice--info} -->
 
 
 # Introduction
@@ -43,7 +43,7 @@ For the rest of this tutorial, we will be using the extension management system 
 
 ## Setting up R with Sublime
 
-Sublime can also be an alternative to RStudio. While the visualizations may not be as immediately accessible (for instance, there is no variable viewer in the corner of the screen), it can also be less distracting. Further, all the data remains easily gatherable, and when simulateously writing in LaTeX, everything is in the same application. Again, for someone with a short attention span, the less distractions the better.
+Sublime can also be an alternative to RStudio. While the visualizations may not be as immediately accessible (for instance, there is no variable viewer in the corner of the screen), it can also be less distracting. Further, all the data remains easily accessible, and when simulateously writing in LaTeX, everything is in the same application. Again, for someone with a short attention span, the less distractions the better.
 
 
 ## Sublime Merge
