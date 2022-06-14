@@ -13,7 +13,7 @@ tags:
 {: .notice--info}
 
 
-## Introduction
+# Introduction
 
 Are you looking for an easy, fast, and flexible text editor, but aren't sure where to start? Are you easily distracted and want all your files, programs, and projects in the same place? Do you want a editor than can handle a wide array of languages, programs, and platorms? If the answer to any of these questions is yes, then Sublime Text Editor is may be a great fit.
 
@@ -53,7 +53,7 @@ A cross-platform Git client via Sublime Text
 
 download
 
-link somehow -->
+link somehow 
 
 
 
