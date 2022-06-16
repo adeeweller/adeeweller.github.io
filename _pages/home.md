@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: home
 permalink: /home/
 author_profile: true
@@ -18,9 +18,9 @@ feature_row:
     url: "/_pages/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"     
----
+--- -->
 
 
 <!-- {% include feature_row id="intro" type="center" %} -->
 
-{% include feature_row id="feature_row" type="left" %}
+<!-- {% include feature_row id="feature_row" type="left" %} -->
