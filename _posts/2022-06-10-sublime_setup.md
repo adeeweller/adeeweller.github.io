@@ -1,6 +1,5 @@
 ---
 toc: true
-layout: splash
 title: "Setting Up Sublime Text with R"
 categories:
   - Blog
