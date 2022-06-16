@@ -11,9 +11,12 @@ Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
 
 ### "Reelection Reform and Removing Rivals in Mexico."
 
+[expand]
  * _Abstract:_  In 2018, mayors in some states in Mexico became eligible for reelection, while others could only hold a single term. These individuals may also face violence and coercion from organized criminal groups who seek to influence the decisions made by local offices. This paper examines the effect of the introduction of reelection on violence against local politicians in Mexico. I argue that lengthening political horizons, by increasing the number of terms an individual holds, raises the value of capturing office for a criminal group. They will be more willing to spend resources and use violence against rival politicians. This increases the probability that their preferred candidate wins and their investment is profitable, and this is more likely to occur when criminal groups are competing for control of a municipality. To test this theory, I exploit the staggered implementation of an electoral reform in Mexico, which allowed state legislators to decide if mayors would be eligible for reelection. Using a difference-in-differences design with an original data set of attacks on local politicians built from newspaper articles, I find that reelection had an insignificant effect on violence on the whole, but that this effect was positive and significant the year the reform was past and the year after. Further, in places that are valuable to criminal groups – proxied by presence of poppy fields – the effect is much larger. This paper contributes to the larger literature which seeks to understand the interaction of organized crime, politics, and institutional reform.
  
  * _Keywords:_ reelection, institutional reform, organized crime, criminal violence, elections
+[/expand]
+
 
 ### "Criminal Police? Analyzing the formalization of Enforcement Units in Criminal Groups"
  
