@@ -7,7 +7,7 @@ tags:
   - text editor
   - setup
 header: 
-  overlay_image: sublime_R.png
+  image: assests/images/sublime_R.jpg
 ---
 
 **Info Notice:** This page is currently under construction. Please check back in soon.
