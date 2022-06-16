@@ -6,6 +6,7 @@ categories:
 tags:
   - text editor
   - setup
+header: sublime_R.png
 # link: https://github.com
 ---
 
