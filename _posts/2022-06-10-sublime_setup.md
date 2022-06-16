@@ -1,13 +1,14 @@
 ---
 toc: true
+layout: splash
 title: "Setting Up Sublime Text with R"
 categories:
   - Blog
 tags:
   - text editor
   - setup
-header: sublime_R.png
-# link: https://github.com
+header: 
+  overlay_image: sublime_R.png
 ---
 
 **Info Notice:** This page is currently under construction. Please check back in soon.
