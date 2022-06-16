@@ -7,7 +7,7 @@ tags:
   - text editor
   - setup
 header: 
-  image: assests/images/sublime_R.jpg
+  image: assets/images/sublime_R.jpg
 ---
 
 **Info Notice:** This page is currently under construction. Please check back in soon.
