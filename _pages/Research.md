@@ -45,4 +45,4 @@ How do criminal groups shape the behaviors and preferences of the state, and how
 How do criminal groups govern? While our understanding of governance by criminal organizations has grown, there is little systematic data to map it. This project seeks to address this gap. Using newspaper articles from _The New York Times_ containing the names of more than 50 randomly selected groups from across Latin America, this project implements a supervised machine learning approach to code more than thirty indicators of criminal governance. This indicators include who is governing (what group or groups), how they are governing (enforcing rules, collecting taxes, distributing goods), and who they are governing (civilians, other criminals, or the state). This project seeks to expand our understanding of criminal governance across the globe.
 </details>
 
- * _Keywords:_ criminal governance; Latin America; text analysis; supervised machine learning
+ * _Keywords:_ criminal governance; Latin America; Natural Language Processing; supervised machine learning
