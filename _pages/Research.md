@@ -9,7 +9,7 @@ title: "Research"
 
 Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
 
-### "Reelection Reform and Removing Rivals in Mexico."
+### _"Reelection Reform and Removing Rivals in Mexico."_
 
 <details>
   <summary>Abstract</summary>
@@ -18,7 +18,7 @@ Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
 
 * _Keywords:_ reelection; institutional reform; organized crime; criminal violence; elections
 
-### "Criminal Police? Analyzing the formalization of Enforcement Units in Criminal Groups"
+### _"Criminal Police? Analyzing the formalization of Enforcement Units in Criminal Groups"_
 
 <details>
   <summary>Abstract</summary> 
@@ -27,7 +27,7 @@ When and why do criminal organizations formalize an armed enforcement unit withi
 
  * _Keywords:_ criminal governance; enforcement units; institutions; security dilemma; Mexico
 
-### "A Tale of Two Masters"
+### _"A Tale of Two Masters"_
 
 <details>
   <summary>Abstract</summary>
@@ -38,7 +38,7 @@ How do criminal groups shape the behaviors and preferences of the state, and how
 
 ## Data Collection
 
-### "Mapping Criminal Governance"
+### _"Mapping Criminal Governance"_
 
 <details>
   <summary>Abstract</summary>
