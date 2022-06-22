@@ -5,7 +5,7 @@ author_profile: true
 permalink: /research/
 title: "Research"
 ---
-## Working Papers
+# Working Papers
 
 Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
 
@@ -36,7 +36,7 @@ How do criminal groups shape the behaviors and preferences of the state, and how
 
  * _Keywords:_ organized crime; state governance; moral hazard; multiple principals; delegation
 
-## Data Collection
+# Data Collection
 
 ### _"Mapping Criminal Governance"_
 
