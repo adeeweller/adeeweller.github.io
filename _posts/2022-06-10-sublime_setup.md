@@ -23,6 +23,8 @@ I first started using Sublime as a Political Science major in undergrad -- and I
 
 In this post, let us walk through what Sublime is, why may be the right fit for you, and how to get it set up with R. In future posts, we will work through how to set it up with LaTeX, python, markdown, and much more!
 
+But before we continue, I assume in this tutorial that you already have R dowloaded on your computers. If you have not, please [do so here.](https://cloud.r-project.org/) For more information on R, check out their [introduction here.](https://www.r-project.org/about.html)
+
 ## What is Sublime?
 
 Sublime is a text editor. To be more specific, Sublime is a sophisticated, cross-platform source code editor. It supports a variety of programming and markup languages, and features an array of plugins, which are typically community-built and maintained under free-software licenses. You can think about Sublime as the swiss-army knife of text editing. The plugin ecosystem and its extensability make Sublime a worthy choice. It's incredibly fast and lightweight. An annual subscription costs $99 USD, but note that the free trial period is unlimited.
@@ -56,34 +58,41 @@ From there, all the available repositories will be available to be chosen.
 
 Now, we need to install the following packages:
 
+* _'SendCode'_
+   + This sends code from the text editor to be run in either the terminal or in the R user interface (RGui). Select the option that says '*SendCode: Choose Program*' and hit enter.
 
-## Downloading R
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/install_sendcode.jpg "Installing SendCode"){: .align-center}
 
-You also need to download R. 
+(As a note, you can set this part up a couple different ways. You can send the code directly to the R GUI, send it to a terminal, or some other shell. In this tutorial, we will be sending it to R's interface, but know that there are options out there.)
+
+Sublime will open a list of all the consoles where the code can be sent.
+
+* _'R-Box'_
+   + This package is no longer maintained and has beens superceded by '*sublime-ide-r*'
+
+* _'R-IDE'_
+   + 
+
+To make the appropriate path to R, go to 'Preferences' then 'Package Settings' at the bottom of the drop-down tab. From there, we can access all the settings for our downloaded packages. Find the one for R-IDE and open Settings. 
+
+
+
 
 
 
 ## Sending Code
 
 
-
-Terminus: Run a terminal shell within Sublime Text.
-
 Package Control
-
-Pandoc
 
 R-Box
 
-Kite
 
 **sublime-ide-r:** A package maintained by randy3k that transforms Sublime into R-Studio with some cool features added (formerly R-IDE).
 
 **SendCode:** Send your code to a terminal or program such as Terminus/Terminal/R-GUI/R-Studio.
 
 SublimeREPL
-
-LSP: An implementation of Microsoft Language Server Protocol for various programming languages. It provides a syntax check and function description.
 
 
 
