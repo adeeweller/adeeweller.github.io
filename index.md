@@ -10,7 +10,7 @@ header:
 # intro: 
 #   - excerpt: ''
 feature_row:
-  - image_path: /assets/images/Adee_Weller_EMORY.jpg
+  - image_path: /assets/images/brewery_Charlotte_NC_2.jpg
     title: "About Me"
     excerpt: "I am a third-year Ph.D. student in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). <br />  <br />
     
