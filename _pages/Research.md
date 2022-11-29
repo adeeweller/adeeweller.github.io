@@ -13,21 +13,21 @@ Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
 
 <details>
   <summary>Abstract</summary>
- In 2018, mayors in some states in Mexico became eligible for reelection, while others could only hold a single term. These individuals may also face violence and coercion from organized criminal groups who seek to influence the decisions made by local offices. This paper examines the effect of the introduction of reelection on violence against local politicians in Mexico. I argue that lengthening political horizons, by increasing the number of terms an individual holds, raises the value of capturing office for a criminal group. They will be more willing to spend resources and use violence against rival politicians. This increases the probability that their preferred candidate wins and their investment is profitable, and this is more likely to occur when criminal groups are competing for control of a municipality. To test this theory, I exploit the staggered implementation of an electoral reform in Mexico, which allowed state legislators to decide if mayors would be eligible for reelection. Using a difference-in-differences design with an original data set of attacks on local politicians built from newspaper articles, I find that reelection had an insignificant effect on violence on the whole, but that this effect was positive and significant the year the reform was past and the year after. Further, in places that are valuable to criminal groups – proxied by presence of poppy fields – the effect is much larger. This paper contributes to the larger literature which seeks to understand the interaction of organized crime, politics, and institutional reform.
+ What is the effect of introducing reelection on criminal engagement in elections? Examining an electoral reform in Mexico, I argue that reelection can bring stability to the ties between criminal groups and local politicians. Politicians may be incentivized to collude with organized crime to win reelection, and, armed with longer political horizons, the long-term deals they make with criminal groups may be more credible. When one criminal group has a monopoly on illicit power, this collusion may result in lower levels of violence against politicians. On the other hand, reelection also increases the value of office. Where groups compete for control of localities, this can incentivize violence during an election, followed by a period of stability after the winner is established. To test this theory, I exploit the staggered implementation of electoral reform in Mexico. Using a multi-period difference-in-differences design with an original dataset of attacks on local politicians, I find that reelection had a negative effect on violence, regardless of the degree of competition between groups. I also examine other indicators of engagement, such as the number of candidates, concentrations of vote shares, and electoral crimes. Further, I find attacks in municipalities had spillover effects, precipitating attacks nearby. This paper contributes to the larger literature which seeks to understand the interaction of organized crime, politics, and institutional reforms.
 </details>
 
-* _Keywords:_ reelection; institutional reform; organized crime; criminal violence; elections
+* _Keywords:_ reelection; institutional reform; organized crime; criminal violence; elections; Mexico
 
 ### "Criminal Police? Analyzing the formalization of Enforcement Units in Criminal Groups"
 
 <details>
   <summary>Abstract</summary> 
-When and why do criminal organizations formalize an armed enforcement unit within their ranks? Criminal groups are no strangers to using violence, and officially delegating power and authority to a unit may split payoffs and increase the risks of fragmentation. At the same time, I argue, formalizing these coercive institutions can play two roles. First, for groups that share power with the state, these units can serve as a commitment device between the two players, outlining expectations and benefits. Second, as criminal groups compete with others who are armed with enforcement units, they may build their own institutions as a form of self-protection in a security dilemma. To evaluate this, I employ a mixed-method approach. First, I use process tracing to outline the creation of the first paramilitary enforcement unit in Mexico, formed as a commitment device between the Gulf Cartel and the state. Second, I use a network model to show the interaction of competing criminal groups, and when they developed coercive institutions. This paper provides a further understanding of criminal governance, how it functions, and how it engages with state governance. 
+When academics, journalists, and policymakers discuss enforcement wings within criminal organizations, there is a wide variety of terms that are used -- often describing dramatically different groups. These same groups are also responsible for the vast majority of criminal violence worldwide. To be able to understand what they are and how they operate, we need a clear definition. This paper conceptualizes enforcement wings into two ideal types: expansion types and control types. The former is produced by in-house, militarized groups that focus on protecting and expanding the boundaries of the parent organization. The latter, control types, outsource enforcement to existing groups within territories to regulate the daily activities of criminals and communities. As economic prospects and opportunities evolve, groups can similarly shift between types. I argue that groups develop expansion wings when planning a major military offensive against rivals or the state, and that they develop control types once they hold territory -- needing a mechanism for governing it. Criminal groups may also collude with the state, co-opting enforcement out to state forces rather than creating their own. I examine this conceptualization using qualitative evidence of criminal enforcement wings from Mexico (1993-2015).
 </details>
 
- * _Keywords:_ criminal governance; enforcement units; institutions; security dilemma; Mexico
+ * _Keywords:_ criminal governance; enforcement units; institutions; paramilitaries; Mexico
 
-### "A Tale of Two Masters"
+### "An Endogenous Process of Organized Crime and Statebuilding"
 
 <details>
   <summary>Abstract</summary>
@@ -35,6 +35,22 @@ How do criminal groups shape the behaviors and preferences of the state, and how
 </details>
 
  * _Keywords:_ organized crime; state governance; moral hazard; multiple principals; delegation
+
+
+### "Violence Incorporated: State Response to Pro-Government Militias in Northern Ireland"
+
+ * _Written with:_ Danielle Villa, Emily Gade, and Sarah Dreier
+
+<details>
+  <summary>Abstract</summary>
+Pro-government militias (PGMs) actively participate in conflicts around the world. Yet governments respond to these militant groups in very distinct ways. States openly support some PGMs, maintain covert links with some, and ignore or suppress others. We examine this variation in how governments respond to PGMs, both across and within groups, in the context of the early years of Britain's ``Troubles in Northern Ireland.'' This project analyzes 8,430 recently declassified documents from the United Kingdom Prime Ministers’ security-based Correspondence Files (1969-1974), which detail the British government's internal attitudes and behaviors toward these groups. We argue that states balance their military needs with goals of social control and engagement with supporters. This project provides the first internal account of governmental attitudes towards PGMs, contributing to a greater understanding of the factors that influence the decision-making process of governments in conflict. 
+</details>
+
+ * _Keywords:_ Loyalist paramilitaries; pro-government militias; qualitative research; Northern Ireland
+
+
+
+
 
 > ## Data Collection
 
