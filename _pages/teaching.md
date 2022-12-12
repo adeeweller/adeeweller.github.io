@@ -19,10 +19,10 @@ title: "Teaching"
 
 ## Teaching Experience
 
-* TA for POLS 208: Research Design and Methods with Dr. Carly Potz-Nielsen
+* TA for POLS 208: Research Design and Methods with Dr. Carly Potz-Nielsen (Spring 2023)
   * Fundamental concepts and quantitative techniques of empirical political inquiry. Introduction to concepts of measurement, parametric, and non-parametric statistics. Basic bivariate and univariate statistics used in political science.
 
-* Grader for POLS 110: Introduction for International Politics with Dr. David Davis III
+* Grader for POLS 110: Introduction for International Politics with Dr. David Davis III (Spring 2022)
   * Introduction to analytical concepts, nature of the interstate system, the assumptions and ideas of diplomacy, the determinants of foreign policy.
 
 * Organized and led with a small team of undergraduates (from sophomores to seniors) in the semesters of Fall 2021, Spring, Summer, and Fall of 2022, and Spring of 2023. We have worked on the following projects:
