@@ -18,7 +18,7 @@ Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
 
 * _Keywords:_ reelection; institutional reform; organized crime; criminal violence; elections; Mexico
 
-### "Criminal Police? Analyzing the formalization of Enforcement Units in Criminal Groups"
+### "Arming the Armed: How Violent Groups Delegate Coercive Capacity"
 
 <details>
   <summary>Abstract</summary> 
