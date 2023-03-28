@@ -18,7 +18,7 @@ Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
 
 * _Keywords:_ reelection; institutional reform; organized crime; criminal violence; elections; Mexico
 
-### "Arming the Armed: How Violent Groups Delegate Coercive Capacity"
+### "Direct and Indirect Criminal Governance"
 
 <details>
   <summary>Abstract</summary> 
