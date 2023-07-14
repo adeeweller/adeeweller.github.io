@@ -9,33 +9,14 @@ title: "Research"
 
 Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
 
-### "Reelection Reform and Removing Rivals in Mexico."
+### "Institutional Change and Criminal Engagement: The Impact of Mayoral Reelection on Violence and State Capture in Mexico."
 
 <details>
   <summary>Abstract</summary>
- What is the effect of introducing reelection on criminal engagement in elections? Examining an electoral reform in Mexico, I argue that reelection can bring stability to the ties between criminal groups and local politicians. Politicians may be incentivized to collude with organized crime to win reelection, and, armed with longer political horizons, the long-term deals they make with criminal groups may be more credible. When one criminal group has a monopoly on illicit power, this collusion may result in lower levels of violence against politicians. On the other hand, reelection also increases the value of office. Where groups compete for control of localities, this can incentivize violence during an election, followed by a period of stability after the winner is established. To test this theory, I exploit the staggered implementation of electoral reform in Mexico. Using a multi-period difference-in-differences design with an original dataset of attacks on local politicians, I find that reelection had a negative effect on violence, regardless of the degree of competition between groups. I also examine other indicators of engagement, such as the number of candidates, concentrations of vote shares, and electoral crimes. Further, I find attacks in municipalities had spillover effects, precipitating attacks nearby. This paper contributes to the larger literature which seeks to understand the interaction of organized crime, politics, and institutional reforms.
+ What is the effect of introducing reelection on criminal engagement in elections? Examining an electoral reform in Mexico, I argue that reelection can bring stability to the ties between criminal groups and local politicians. Politicians may be incentivized to collude with organized crime to win reelection, and, armed with longer political horizons, the long-term deals they make with criminal groups may be more credible. When one criminal group has a monopoly on illicit power, this collusion may result in lower levels of violence against politicians. On the other hand, reelection also increases the value of office. Where groups compete for control of localities, this can incentivize violence during an election, followed by a period of stability after the winner is established. To test this theory, I exploit the staggered implementation of electoral reform in Mexico. Using a multi-period difference-in-differences design with an original dataset of attacks on local politicians, I find that reelection had a negative effect on violence, regardless of the degree of competition between groups. I also explore how this reform impacted the types of violent action that groups use to conduct business. Further, I find attacks in municipalities had spillover effects, precipitating attacks nearby. This paper contributes to the larger literature which seeks to understand the interaction of organized crime, politics, and institutional reforms.
 </details>
 
 * _Keywords:_ reelection; institutional reform; organized crime; criminal violence; elections; Mexico
-
-### "Direct and Indirect Criminal Governance"
-
-<details>
-  <summary>Abstract</summary> 
-  Violent armed groups around the world formally designate institutions, from specialized coercive institutions to ones that provide services. For groups that seek to reform, remove, or supplant the state, these institutions are a mechanism of direct governance by which the groups can impose a new political or social order. For groups which do not seek statehood, however, these institutions help them achieve their non-political goals, such as economic ones. However, because these groups do not rival the state, they can also co-opt state institutions and govern indirectly. This project examines the trade-off that non-state-seeking groups face when choosing an institutional arrangement. They can govern indirectly, through co-opting state institutions, or directly by developing their own institutions. Indirect governance establishes immediate access to state power, but introduces principal-agent problems. When the state is unable to serve a faithful agent, groups may choose to form their own institutions. These can be more effective but also are much more costly to establish and maintain. I examine this conceptualization using qualitative evidence of coercive institutions by criminal groups in Mexico (1990-2010).
-</details>
-
- * _Keywords:_ criminal governance; institutions; non-state governance; order
-
-### "Democratic Accountability and Multiple Principals"
-
-<details>
-  <summary>Abstract</summary>
-How does the introduction of competing principals impact voters' ability to hold politicians accountable? This project builds off of canonical models of democratic accountability, which frame reelection as a chance for voters to solve the moral hazard problem they face with politicians. Here, however, there is a second principal who is also vying for control of the politician, as the agent, but who has fundamentally divergent goals from the voters. This principal also has a different set of skills which they can employ to coerce the official, using both bribes and threats. The politician, therefore, must appraise the risks they face and the value of holding office, given the incentives offered by each of the principals. This model has broad applications, applying wherever principals, armed with differing capacities, compete for control of an agent.
-</details>
-
- * _Keywords:_ multiple principals; accountability; moral hazard; delegation; organized crime; formal model
-
 
 ### "Violence Incorporated: State Response to Pro-Government Militias in Northern Ireland"
 
@@ -49,6 +30,33 @@ How does the introduction of competing principals impact voters' ability to hold
  * _Keywords:_ Loyalist paramilitaries; pro-government militias; qualitative research; Northern Ireland
 
 
+### "Arming the Armed: Explaining How Violent Groups Delegate Coercive Authority"
+
+<details>
+  <summary>Abstract</summary> 
+  Violent armed groups around the world formally designate institutions, from specialized coercive institutions to ones that provide services. For groups that seek to reform, remove, or supplant the state, these institutions are a mechanism of direct governance by which the groups can impose a new political or social order. For groups that do not seek statehood, however, these institutions help them achieve their non-political goals, such as economic ones. However, because these groups do not rival the state, they can also co-opt state institutions and govern indirectly. This project examines the trade-off that non-state-seeking groups face when choosing an institutional arrangement. They can govern indirectly, through co-opting state institutions, or directly by developing their own institutions. Indirect governance establishes immediate access to state power but introduces principal-agent problems. When the state is unable to serve a faithful agent, groups may choose to form their own institutions. These can be more effective but also are much more costly to establish and maintain. I examine this conceptualization using qualitative evidence of coercive institutions by criminal groups in Mexico (1990-2010).
+</details>
+
+ * _Keywords:_ criminal governance; institutions; non-state governance; order
+
+### "Divergent Accountability? Competing Principals and Incomplete Contracts"
+
+<details>
+  <summary>Abstract</summary>
+How does the introduction of competing principals impact voters' ability to hold politicians accountable? This project builds off of canonical models of democratic accountability, which frame reelection as a chance for voters to solve the moral hazard problem they face with politicians. Here, however, there is a second principal who is also vying for control of the politician, as the agent, but who has fundamentally divergent goals from the voters. This principal also has a different set of skills that they can employ to coerce the official, using both bribes and threats. The politician, therefore, must appraise the risks they face and the value of holding office, given the incentives offered by each of the principals. This model has broad applications, applying wherever principals, armed with differing capacities, compete for control of an agent.
+</details>
+
+ * _Keywords:_ multiple principals; accountability; moral hazard; delegation; organized crime; formal model
+
+
+### "Electoral Reform and East India Company Politics: Shareholder Accountability and Director Consolidation"
+
+<details>
+  <summary>Abstract</summary>
+  How does governance by an armed, economically-driven non-state organization impact the decisions of state actors? This paper explores the nuanced and collusive relationship between the East India Company and the British government in the 1770s, at a time when the Company governed large territories in India for profit, rather than political motivations. During this period, I argue that the British government colluded with the Company to engage in proxy wars with joint-stock companies of other European countries in India, particularly with France. I examine this using an original dataset of internal Company records and private communications with the Crown and Parliament. This project provides key insights into how collusion with coercive, non-political groups shape domestic and international state policies.
+</details>
+
+ * _Keywords:_ East India Company; Historical Political Economy; archival research
 
 
 
