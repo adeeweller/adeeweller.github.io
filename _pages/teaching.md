@@ -30,11 +30,11 @@ title: "Teaching"
   * Hands-on R workshop for graduate students to learn best coding practices, how to clean and manage complex databases, and advanced R techniques. 
 
 * Instructor for Technology Bootcamp (Graduate level, with Eddy Yeung, Fall 2023-Spring 2024)
-  * Crash-course on the best practices of software such as R, LaTeX, python, and text editors, as well as citation managers and other organizational software.
+  * Crash course on the best practices for software such as R, LaTeX, python, and text editors, as well as citation managers and other organizational software.
 
-* Grader for POLS 110: Introduction for International Politics with Dr. David Davis III (Spring 2022)
-  * Introduction to analytical concepts, nature of the interstate system, the assumptions and ideas of diplomacy, the determinants of foreign policy.
+* Grader for POLS 110: Introduction to International Politics with Dr. David Davis III (Spring 2022)
+  * Introduction to analytical concepts, the nature of the interstate system, the assumptions and ideas of diplomacy, the determinants of foreign policy.
 
-* Organized and led with a small team of undergraduates (from sophomores to seniors) in the semesters of Fall 2021, Spring, Summer, and Fall of 2022, and Spring of 2023. We have worked on the following projects:
+* Organized and led a small team of undergraduates (from sophomores to seniors) in the semesters of Fall 2021, Spring, Summer, and Fall of 2022, and Spring of 2023. We have worked on the following projects:
   * Criminal governance data collection
   * Understanding Criminal Enforcement Wings
