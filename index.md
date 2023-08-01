@@ -12,7 +12,7 @@ header:
 feature_row:
   - image_path: /assets/images/Weller_fix_1.jpg
     title: "About Me"
-    excerpt: "I am a Ph.D candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). <br />  <br />
+    excerpt: "I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). <br />  <br />
     
     I study how violent economic groups -- like organized crime, armed corporations, and mercenary groups -- interact with state actors and explore the consequences of collusion. In my research, I combine causal inference and formal modeling with Natural Language Processing and Machine Learning. In my research, I combine causal inference and formal modeling with Natural Language Processing and Machine Learning. <br /> <br />
     
