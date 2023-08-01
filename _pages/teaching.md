@@ -26,10 +26,10 @@ title: "Teaching"
 * TA for POLS 208: Research Design and Methods with Dr. Carly Potz-Nielsen (Spring 2023)
   * Fundamental concepts and quantitative techniques of empirical political inquiry. Introduction to concepts of measurement, parametric, and non-parametric statistics.
 
-* R Workshop (Graduate level, with Eddy Yeung, Fall 2023-Spring 2024)
+* Instructor for R Workshop (Graduate level, with Eddy Yeung, Fall 2023-Spring 2024)
   * Hands-on R workshop for graduate students to learn best coding practices, how to clean and manage complex databases, and advanced R techniques. 
 
-* Technology Bootcamp (Graduate level, with Eddy Yeung, Fall 2023-Spring 2024)
+* Instructor for Technology Bootcamp (Graduate level, with Eddy Yeung, Fall 2023-Spring 2024)
   * Crash-course on the best practices of software such as R, LaTeX, python, and text editors, as well as citation managers and other organizational software.
 
 * Grader for POLS 110: Introduction for International Politics with Dr. David Davis III (Spring 2022)
