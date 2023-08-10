@@ -38,3 +38,10 @@ title: "Teaching"
 * Organized and led a small team of undergraduates (from sophomores to seniors) in the semesters of Fall 2021, Spring, Summer, and Fall of 2022, and Spring of 2023. We have worked on the following projects:
   * Criminal governance data collection
   * Understanding Criminal Enforcement Wings
+
+
+## R Workshop
+
+### Tech Bootcamp
+
+* GitHub link (data, code, example documents)
