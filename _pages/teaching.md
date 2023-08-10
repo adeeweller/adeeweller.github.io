@@ -44,4 +44,12 @@ title: "Teaching"
 
 ### Tech Bootcamp
 
-* GitHub link (data, code, example documents)
+* [Tech Bootcamp GitHub page](https://github.com/adeeweller/R_Workshop/tree/main)
+
+    * [Tech Workshop](https://github.com/adeeweller/R_Workshop/tree/main/tech_bootcamp) (sample data, code for replication, and example documents)
+
+    * [Fall Sessions](https://github.com/adeeweller/R_Workshop/tree/main/Fall_Sessions) (Practice code exercises, problem sets, and answer keys for important skills in R, Mathematica, and python)
+
+    * [January Refresher](https://github.com/adeeweller/R_Workshop/tree/main/January_Refresher) (Refresher course on key coding skills and best practices)
+
+    * [Spring Sessions](https://github.com/adeeweller/R_Workshop/tree/main/Spring_Sessions) (Data, R code, exercises, problem sets, and answer keys, paced with POLS 509 (Linear Models) at Emory University)
