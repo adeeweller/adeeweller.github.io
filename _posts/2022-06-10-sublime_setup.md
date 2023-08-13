@@ -46,9 +46,11 @@ After it is installed, I would recommend closing Sublime and re-opening it befor
 
 ## Setting up R with Sublime
 
-Sublime can be an nice alternative to RStudio, especially when writing multi-format articles. While the visualizations may not be as immediately accessible (for instance, there is no variable viewer in the corner of the screen), it can also be less distracting. Further, all the data remains easily accessible, and when simulateously writing in LaTeX, everything is in the same application. Again, for someone with a short attention span, the less distractions the better.
+Sublime can be an nice alternative to RStudio, especially when writing multi-format articles or working in both R and LaTeX simultaneously. While the visualizations may not be as immediately accessible (for instance, there is no variable viewer in the corner of the screen, like there is in RStudio), it can also be less distracting. Further, all the data remains easily accessible, and when simulateously writing in LaTeX, everything is in the same application. Again, for someone with a short attention span, the less distractions the better.
 
-To set up R with Sublime, we first need to install the appropriate packages. Again, open the Command Package and search 'install.' Now, '**Package Controll: Install Package**' should be the first option. Select it and hit enter. This may take a moment.
+Let's start with a blank .R file in Sublime. Open a file and save it as "file.R" -- this let's Sublime know you are working on an R file and it will automate some of the commands.
+
+To set up R within Sublime, we need to install the appropriate packages. Again, open the Command Package and search 'install.' Now, '**Package Control: Install Package**' should be the first option. Select it and hit enter. This may take a moment.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/install_package_control2.jpg "Installing Packages"){: .align-center}
 
@@ -58,43 +60,41 @@ From there, all the available repositories will be available to be chosen.
 
 Now, we need to install the following packages:
 
+* _'sublime-ide-r'_
+   + A package maintained by randy3k that transforms Sublime into R-Studio with some cool features added (formerly R-IDE).
+<!-- 
+* _'Terminus'_
+   + This package enables you to run the terminal through Sublime. -->
+
 * _'SendCode'_
-   + This sends code from the text editor to be run in either the terminal or in the R user interface (RGui). Select the option that says '*SendCode: Choose Program*' and hit enter.
+   + This sends code from the text editor to be run in either the terminal or in the R user interface (RGui). 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/install_sendcode.jpg "Installing SendCode"){: .align-center}
 
-(As a note, you can set this part up a couple different ways. You can send the code directly to the R GUI, send it to a terminal, or some other shell. In this tutorial, we will be sending it to R's interface, but know that there are options out there.)
+(As a note, you can set this part up a couple different ways. You can send the code directly to the R GUI, send it to a terminal, or some other shell. To do that, use the package _'Terminus'_ and set that up instead. In this tutorial, we will be sending it to R's interface. However, know that there are options out there and pick the one that is best for you.)
 
-Sublime will open a list of all the consoles where the code can be sent.
+Once those two are installed, open Package Control back up and select the option that says '*SendCode: Choose Program*' and hit enter. Sublime will open a list of all the consoles where the code can be sent.
 
-* _'R-Box'_
-   + This package is no longer maintained and has beens superceded by '*sublime-ide-r*'
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/sendcode1.jpg "Send Code Program Selection (1)"){: .align-center}
 
-* _'R-IDE'_
-   + 
+From there, you can select the program that you want to send the R script to -- choose R GUI. You can also use RStudio if you refer, but this page is set up for the R base. 
 
-To make the appropriate path to R, go to 'Preferences' then 'Package Settings' at the bottom of the drop-down tab. From there, we can access all the settings for our downloaded packages. Find the one for R-IDE and open Settings. 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/sendcode2.jpg "Send Code Program Selection (2)"){: .align-center}
 
+The next step is to let Sublime know where the R GUI is located. To make the appropriate path to R, go to 'Preferences' then 'Package Settings' at the bottom of the drop-down tab. From there, we can access all the settings for our downloaded packages. Find the one for R-IDE and open Settings. 
 
+Next, we will define the path for Sublime to access R. Hover over *Preferences* to *Package Settings* to *sublime-ide-r* to open the user settings. 
 
-
-
-
-## Sending Code
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/ide_r_settings1.jpg "Opening R-IDE Settings"){: .align-center}
 
 
-Package Control
+You won't need to edit settings on the left -- these are the universal settings. We will focus on the panel on the right, where user settings are located. Edit the path to R to match the path to the .exe file in R. See the highlighted text below. This path must match exactly. Once this is changed, you can save the settings and exit them out. 
 
-R-Box
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/ide_r_settings2.jpg "Opening R-IDE Settings"){: .align-center}
 
+Now you should be set up! Open the R GUI on one panel and your R script in Sublime on another. To run a line of code that you have written in Sublime in R, simply select it and hit <kbd>Ctrl</kbd> + <kbd>Enter</kbd>. The line and output should appear on the screen in the R GUI. Run whole files with ease!
 
-**sublime-ide-r:** A package maintained by randy3k that transforms Sublime into R-Studio with some cool features added (formerly R-IDE).
-
-**SendCode:** Send your code to a terminal or program such as Terminus/Terminal/R-GUI/R-Studio.
-
-SublimeREPL
-
-
+Finally, this process only ever needs to be repeated once. Now you are ready to start maintaining, cleaning, analysing, and visualizing your data!
 
 
 
