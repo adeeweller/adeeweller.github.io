@@ -37,9 +37,6 @@ That's it! You've successfully installed Sublime. Remember, if you are using the
 
 For the rest of this tutorial, we will be using the extension management system called '**Package Control**.' This is used to install extensions, themes, and color schemes. Since Sublime does not come with Package Control, we will need to install it. To install anything, we need to first open the '**Command Palette**'. The shortcut for this is <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (<kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> on Mac), although you can also open it from the Preferences tab. Using the shortcut, a toolbar will drop down from the top, and search 'install.' The first option should be `Install Package Control.' Select it and hit <kbd>Enter<kbd>. It may take a minute.
 
-
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/install_package_control.png "Installing Package Control"){: .align-center}
-
 After it is installed, I would recommend closing Sublime and re-opening it before we move to the next steps.
 
 ## Setting up R with Sublime
