@@ -11,8 +11,6 @@ header:
   image: assets/images/sublime_R.jpg
 ---
 
-**Info Notice:** This page is currently under construction. Please check back in soon.
-{: .notice--info}
 
 
 ## Introduction
@@ -62,16 +60,16 @@ Now, we need to install the following packages:
 
 * _'sublime-ide-r'_
    + A package maintained by randy3k that transforms Sublime into R-Studio with some cool features added (formerly R-IDE).
-<!-- 
-* _'Terminus'_
-   + This package enables you to run the terminal through Sublime. -->
+
 
 * _'SendCode'_
    + This sends code from the text editor to be run in either the terminal or in the R user interface (RGui). 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/install_sendcode.jpg "Installing SendCode"){: .align-center}
 
 (As a note, you can set this part up a couple different ways. You can send the code directly to the R GUI, send it to a terminal, or some other shell. To do that, use the package _'Terminus'_ and set that up instead. In this tutorial, we will be sending it to R's interface. However, know that there are options out there and pick the one that is best for you.)
+
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/install_sendcode.jpg "Installing SendCode"){: .align-center}
 
 Once those two are installed, open Package Control back up and select the option that says '*SendCode: Choose Program*' and hit enter. Sublime will open a list of all the consoles where the code can be sent.
 
