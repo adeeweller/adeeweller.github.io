@@ -7,6 +7,8 @@ categories:
 tags:
   - text editor
   - setup
+  - R 
+  - Sublime
 header: 
   image: assets/images/sublime_R.jpg
 ---
