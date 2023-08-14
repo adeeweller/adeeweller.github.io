@@ -29,6 +29,9 @@ title: "Teaching"
 * Instructor for R Workshop (Graduate level, with Eddy Yeung, Fall 2023-Spring 2024)
   * Hands-on R workshop for graduate students to learn best coding practices, how to clean and manage complex databases, and advanced R techniques. 
 
+* Instructor for Emerging Security Studies Fellow Program (Carnegie Institute of New York, Fall 2023)
+  * Led lecture and discussion on what security studies are, how history has shaped them, and their implications for public policy.
+
 * Instructor for Technology Bootcamp (Graduate level, with Eddy Yeung, Fall 2023-Spring 2024)
   * Crash course on the best practices for software such as R, LaTeX, python, and text editors, as well as citation managers and other organizational software.
 

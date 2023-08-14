@@ -4,6 +4,7 @@ title: "Setting Up Sublime Text with R"
 author_profile: true
 categories:
   - Blog
+  - Tutorial
 tags:
   - text editor
   - setup
