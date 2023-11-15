@@ -6,12 +6,7 @@ layout: single
 
 
 
-<<<<<<< HEAD
 I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). I study how violent economic groups -- like organized crime, armed corporations, and mercenary groups -- interact with state actors and explore the consequences their collusion, with regional experise in Mexico and historical expertise in the United Kingdom and northeastern India. My dissertation examines internal group decision-making, how institutional change shapes violent groups' relationship to the state, and how they influence democratic accountability. In my other projects, I examine why states collaborate with certain pro-government militia groups and formalize their influence on electoral outcomes. Methodologically, I adopt a multi-method approach, including deep-learning models (Computer Vision and Natural Language Processing), design-based casual inference, and qualitative analyses.
-
-=======
-I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). I study how violent economic groups -- like organized criminal groups, armed corporations, and mercenary groups -- interact with state actors and explore the consequences of collusion. In my research, I combine causal inference and formal modeling with Natural Language Processing and Machine Learning, employing a wide range of both quantitative and qualitative methods.
->>>>>>> 142374b2f3d7cfaa2e89d5cab1b103c6da304998
 
 Prior to joining Emory University, I received my B.A. in [Political Science](https://politicalscience.unca.edu/) from the [University of North Carolina Asheville](https://www.unca.edu/) in 2020, where I was awarded the [2020 Big South Christenberry Award](https://uncabulldogs.com/news/2020/5/20/womens-swimming-diving-adee-weller-receives-2020-big-south-christenberry-award.aspx) and was nominated for [NCAA Woman of the Year](https://www.ncaa.org/news/2020/7/14/ncaa-schools-announce-nominees-for-2020-ncaa-woman-of-the-year.aspx) as a member of the swim team.
 
