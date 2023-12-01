@@ -23,27 +23,39 @@ title: "Teaching"
 * Instructor of Record for POLS 111: Principles of Political Science with Dr. Danielle Jung (Co-Instructor, Fall 2023)
   * Interdisciplinary course that explores broad questions about what politics is, why political groups form and break apart, and how group-level decisions are made. Brings abstract questions into grounded reality.
 
-* TA for POLS 208: Research Design and Methods with Dr. Carly Potz-Nielsen (Spring 2023)
-  * Fundamental concepts and quantitative techniques of empirical political inquiry. Introduction to concepts of measurement, parametric, and non-parametric statistics.
-
 * Instructor for R Workshop (Graduate level, with Eddy Yeung, Fall 2023-Spring 2024)
   * Hands-on R workshop for graduate students to learn best coding practices, how to clean and manage complex databases, and advanced R techniques. 
+
+* Instructor for Technology Bootcamp (Graduate level, with Eddy Yeung, Fall 2023-Spring 2024)
+  * Crash course on the best practices for software such as R, LaTeX, python, and text editors, as well as citation managers and other organizational software. See below for code.
 
 * Instructor for Emerging Security Studies Fellow Program (Carnegie Institute of New York, Fall 2023)
   * Led lecture and discussion on what security studies are, how history has shaped them, and their implications for public policy.
 
-* Instructor for Technology Bootcamp (Graduate level, with Eddy Yeung, Fall 2023-Spring 2024)
-  * Crash course on the best practices for software such as R, LaTeX, python, and text editors, as well as citation managers and other organizational software.
+* TA for POLS 208: Research Design and Methods with Dr. Carly Potz-Nielsen (Spring 2023)
+  * Fundamental concepts and quantitative techniques of empirical political inquiry. Introduction to concepts of measurement, parametric, and non-parametric statistics.
+
 
 * Grader for POLS 110: Introduction to International Politics with Dr. David Davis III (Spring 2022)
   * Introduction to analytical concepts, the nature of the interstate system, the assumptions and ideas of diplomacy, the determinants of foreign policy.
 
-* Organized and led a small team of undergraduates (from sophomores to seniors) in the semesters of Fall 2021, Spring, Summer, and Fall of 2022, and Spring of 2023. We have worked on the following projects:
-  * Criminal governance data collection
+* Organized and led a small team of undergraduates (from sophomores to seniors) from Fall 2021 to present. We have worked on the following projects:
+  * Criminal Governance in the News
   * Understanding Criminal Enforcement Wings
+  * Digitizing Private Correspondence from the East India Company (1769-1773)
+
+### Teaching Evaluations
+
+Below are a few anonymous reviews on my teaching:
+​
+* "Adee was absolutely amazing. Could not sing her praises enough!!! She was always willing to help, super responsive via email + during class, and she
+made it clear that she really wanted us to learn/enjoy section."
+
+* "Adee, you are an incredible lecturer. Was a joy hearing you speak and you provided me so much information."
+
+* "I love the way the lessons were explained and your incorportation of games made it really enjoyable. And it left me wanting to learn more about Political Science."
 
 
-## R Workshop
 
 ### Tech Bootcamp
 
