@@ -40,7 +40,7 @@ How does the ability to run for reelection shape the relationship between crimin
  * _Keywords:_ East India Company; Historical Political Economy; archival research; crackdowns; armed resistence; Bengal
 
 
-### "Managing A Extractive Empire: How the East India Company Solved Agency Problems"
+### "Managing An Extractive Empire: How the East India Company Solved Agency Problems"
 
 <details>
   <summary>Abstract</summary>
