@@ -11,10 +11,12 @@ header:
 #   - excerpt: ''
 feature_row:
   - image_path: /assets/images/Weller_fix_1.jpg
-    title: "About Me"
+
     excerpt: "I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). <br />  <br />
     
-    I study how violent economic groups -- like organized crime, armed corporations, and mercenary groups -- interact with state actors and explore the consequences their collusion, with regional experise in Mexico and historical expertise in the Troubles in Northern Ireland and British colonialization in northeastern India. My dissertation examines internal group decision-making, how institutional change shapes violent groups' relationship to the state, and how they influence democratic accountability. 
+    I study how violent economic groups -- like organized crime, armed corporations, and mercenary groups -- interact with state actors and explore the consequences their collusion, with regional experise in Mexico and historical expertise in the Troubles in Northern Ireland and British colonialization in northeastern India. My dissertation examines internal group decision-making, how institutional change shapes violent groups' relationship to the state, and how they influence democratic accountability.
+    
+     <br />
     
     In my other projects, I examine why states collaborate with certain pro-government militia groups and formalize their influence on electoral outcomes. Methodologically, I adopt a multi-method approach, including deep-learning models (Computer Vision and Natural Language Processing), design-based casual inference, and qualitative analyses. <br /> <br />
     
