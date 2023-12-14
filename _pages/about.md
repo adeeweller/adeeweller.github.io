@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 layout: single
+classes: wide
 ---
 
 I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). My research delves into the intricate dynamics between violent economic groups -- such as organized crime, armed corporations, and mercenary groups -- and state actors. I investigate the far-reaching and unexpected consequences of their collusion. My dissertation examines how institutional change shapes violent groups' relationship to the state, the internal processes by which they make decisions, and the consequences of collusion on democratic accountability.  
