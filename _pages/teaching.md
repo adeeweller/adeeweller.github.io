@@ -11,10 +11,10 @@ title: "Teaching"
 
 * Illicit Economies and Actors
 * Electoral Politics
-* Political Violence
-* Introduction to Methods in Political Science
-* Introduction to Comparative Politics
-* Introduction to International Relations
+* Politics of Latin America
+* Colonialism and its Consequences
+* Empirical Methods (graduate and undergraduate)
+* Text-as-Data in Political Science
 
 
 
