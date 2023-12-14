@@ -4,11 +4,6 @@ permalink: /
 author_profile: true
 hidden: true
 header:
-#    overlay_color: "#5e616c"
-#    overlay_image: /assets/images/muted_green1.jpg
-# excerpt: >
-# intro: 
-#   - excerpt: ''
 feature_row:
   - image_path: /assets/images/Weller_fix_1.jpg
 
