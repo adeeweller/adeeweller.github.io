@@ -20,7 +20,7 @@ title: "Teaching"
 
 ## Teaching Experience
 
-* Instructor of Record for POLS 111: Principles of Political Science with Dr. Danielle Jung (Co-Instructor, Fall 2023)
+* Instructor of Record for POLS 111: Principles of Political Science with Dr. Danielle Jung (Co-Instructor, Fall 2023) [syllabus](https://www.dropbox.com/scl/fi/3dp34mh6ppso01375n1dp/POLS_111_F2023.pdf?rlkey=qpkrw0388b0vjisspekycvkcy&dl=0)
   * Interdisciplinary course that explores broad questions about what politics is, why political groups form and break apart, and how group-level decisions are made. Brings abstract questions into grounded reality.
 
 * Instructor for R Workshop (Graduate level, with Eddy Yeung, Fall 2023-Spring 2024)
