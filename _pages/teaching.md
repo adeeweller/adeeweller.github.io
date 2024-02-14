@@ -44,9 +44,9 @@ title: "Teaching"
   * Understanding Criminal Enforcement Wings
   * Digitizing Private Correspondence from the East India Company (1769-1773)
 
-### Teaching Evaluations
+### Teaching Evaluations 
 
-Below are a few anonymous reviews on my teaching:
+On average, my classes receive higher satisfaction scores than other Political Science classes, as well as Emory University courses at large. Below are a few anonymous reviews on my teaching:
 ​
 * "Adee was absolutely amazing. Could not sing her praises enough!!! She was always willing to help, super responsive via email + during class, and she
 made it clear that she really wanted us to learn/enjoy section."
