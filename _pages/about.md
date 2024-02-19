@@ -10,7 +10,7 @@ classes: wide
 ---
 
 
-As a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html), my research explores the intricate dynamics between violent groups -- such as organized crime syndicates, armed corporations, and pro-government militias -- and state actors, investigating the implications of their collusion on governance structures and democratic accountability.
+As a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html), my research explores the intricate dynamics between violent business -- such as organized crime syndicates, armed corporations, and pro-government militias -- and state actors, investigating the implications of their collusion on governance structures and democratic accountability.
 
 My dissertation investigates the impact of institutional changes on the relationship between violent groups and the state, examining the internal decision-making processes of these groups and the consequences of their collusion for democratic accountability. Regionally, I specialize in Latin America, particularly Mexico, where I focus on the behavior and strategies of organized criminal groups.
 
