@@ -18,7 +18,7 @@ My research focuses on the nexus of criminal violence and state-building. Crimin
 My dissertation examines how criminal groups shape how institutions function and how they are impacted by institutional change. My first paper examines how local institutional change in Mexico effects criminal engagements in elections and democratic processes. My second paper examines how criminal violence and elite alignment in eighteenth century India influenced uneven colonial rule under the English East India Company. Finally, my third paper uses a survey experiment to examine how exposure to criminal violence changes voters' preferences for aggressive policing policies.      
 <br /> 
      
-I have regional experise in Mexico, as well as in Northern Ireland (historical) and Northeastern India (historical). I adopt a multi-method empirical approach that includes the training and use of deep-learning models (Computer Vision and Natural Language Processing), as well as design-based casual inference and qualitative process tracing.    
+I have regional expertise in Mexico, as well as in historical expertise on British rule in Northern Ireland and Northeastern India. I adopt a multi-method empirical approach that includes the training and use of deep-learning models (Computer Vision and Natural Language Processing), as well as design-based casual inference and qualitative process tracing.    
 <br /> 
     
 In other current projects, I examine why states collaborate with certain pro-government militia groups and I formalize the influence of criminal groups on electoral outcomes. I also examine the effect of natural resource shocks on local infrastructure and illicit economies in Mozambique. 

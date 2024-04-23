@@ -18,7 +18,7 @@ feature_row:
        
      <br /> <br />
      
-    I have regional experise in Mexico, as well as in Northern Ireland (historical) and Northeastern India (historical). I adopt a multi-method empirical approach that includes the training and use of deep-learning models (Computer Vision and Natural Language Processing), as well as design-based casual inference and qualitative process tracing.
+    I have regional expertise in Mexico, as well as in historical expertise on British rule in Northern Ireland and Northeastern India. I adopt a multi-method empirical approach that includes the training and use of deep-learning models (Computer Vision and Natural Language Processing), as well as design-based casual inference and qualitative process tracing.    
     
      <br /> <br />
     
