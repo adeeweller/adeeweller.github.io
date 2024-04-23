@@ -10,15 +10,19 @@ feature_row:
 
     excerpt: " **Welcome!** <br /> <br /> I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). <br />  <br />
     
-    My research delves into the intricate dynamics between violent economic groups -- such as organized crime, armed corporations, and mercenary groups -- and state actors. I investigate the far-reaching and unexpected consequences of their collusion. My dissertation examines how institutional change shapes violent groups' relationship to the state, the internal processes by which they make decisions, and the consequences of collusion on democratic accountability.    
+    My broad research interests lies in the intersection of criminal violence and statebuilding. Criminal actors have long been understudied, yet they remain one of the most pressing security concerns for contemporary and historical states. Criminal groups can undermine and shape the efficacy and behavior of state institutions, while also being shaped by them in turn, with significant implications for human security and safety. I develop novel theoretical and employ an array of innovative empirical approaches to measure and understand these complex dynamics.
+
+    <br /> <br />
+
+    My dissertation examines how criminal groups shape how institutions function and how they are impacted by institutional change. My first paper examines how local institutional change in Mexico effects criminal engagements in elections and democratic processes. My second paper examines how criminal violence and elite alignment in eighteenth century India influenced uneven colonial rule under the English East India Company. Finally, my third paper uses a survey experiment to examine how exposure to criminal violence changes voters' preferences for aggressive policing policies. 
        
      <br /> <br />
      
-    I have regional experise in Mexico, as well as in Northern Ireland (historical) and Northeastern India (historical). 
+    I have regional experise in Mexico, as well as in Northern Ireland (historical) and Northeastern India (historical). I adopt a multi-method empirical approach that includes the training and use of deep-learning models (Computer Vision and Natural Language Processing), as well as design-based casual inference and qualitative process tracing.
     
      <br /> <br />
     
-    In my other projects, I examine why states collaborate with certain pro-government militia groups and formalize their influence on electoral outcomes. Methodologically, I adopt a multi-method approach, including deep-learning models (Computer Vision and Natural Language Processing), design-based casual inference, and qualitative analyses. <br /> <br />
+    In other current projects, I examine why states collaborate with certain pro-government militia groups and I formalize the influence of criminal groups on electoral outcomes. I also examine the effect of natural resource shocks on local infrastructure and illicit economies in Mozambique. <br /> <br />
     
     Prior to joining Emory University, I received my B.A. in [Political Science](https://politicalscience.unca.edu/) from the [University of North Carolina Asheville](https://www.unca.edu/) in 2020, where I was awarded the [2020 Big South Christenberry Award](https://uncabulldogs.com/news/2020/5/20/womens-swimming-diving-adee-weller-receives-2020-big-south-christenberry-award.aspx) and was nominated for [NCAA Woman of the Year](https://www.ncaa.org/news/2020/7/14/ncaa-schools-announce-nominees-for-2020-ncaa-woman-of-the-year.aspx)."
 
