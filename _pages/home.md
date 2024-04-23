@@ -10,7 +10,7 @@ feature_row:
 
     excerpt: " **Welcome!** <br /> <br /> I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). <br />  <br />
     
-    My broad research interests lies in the intersection of criminal violence and statebuilding. Criminal actors have long been understudied, yet they remain one of the most pressing security concerns for contemporary and historical states. Criminal groups can undermine and shape the efficacy and behavior of state institutions, while also being shaped by them in turn, with significant implications for human security and safety. I develop novel theoretical and employ an array of innovative empirical approaches to measure and understand these complex dynamics.
+    My research focuses on the nexus of criminal violence and state-building. Criminal actors, often overlooked, pose critical security challenges for both contemporary and historical states. They not only influence the effectiveness and conduct of state institutions but are also influenced by them, profoundly impacting human security. Through innovative theoretical frameworks and empirical methods, I aim to to understand these interactions and their consequences for civilians.
 
     <br /> <br />
 
