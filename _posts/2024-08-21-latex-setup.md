@@ -73,6 +73,7 @@ This will open up two panels. The left panel is preset settings, while the right
 <kbd>
 {
 
+{
 	"bootstrapped": true,
 
 	"in_process_packages":
@@ -136,6 +137,7 @@ This will open up two panels. The left panel is preset settings, while the right
 		"View In Browser",
 
 	],
+}
 	
 }
 
