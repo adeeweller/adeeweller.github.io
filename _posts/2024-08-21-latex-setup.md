@@ -74,68 +74,38 @@ This will open up two panels. The left panel is preset settings, while the right
 {
 
 {
+	
 	"bootstrapped": true,
-
 	"in_process_packages":
-
 	[
-
 	],
-
 	"installed_packages":
-
 	[
-
 		"Agila Theme",
-
 		"CiteBibtex",
-
 		"Citer",
-
 		"Grammatical Framework",
-
 		"ImageMagick",
-
 		"knitr",
-
 		"Language - Spanish",
-
 		"LaTeX Word Count",
-
 		"LaTeXing",
-
 		"LaTeXTools",
-
 		"LSP",
-
 		"LSP-Grammarly",
-
 		"LSP-ltex-ls",
-
 		"LSP-R",
-
 		"Package Control",
-
 		"Pandoc",
-
 		"R-Box",
-
 		"R-IDE",
-
-		"SendCode",
-
+		"SendCode",		
 		"sublime-github",
-
 		"SublimeLinter",
-
 		"SublimeLinter-contrib-write-good",
-
 		"SublimeREPL",
-
 		"Terminus",
-
 		"View In Browser",
-
 	],
 }
 	
