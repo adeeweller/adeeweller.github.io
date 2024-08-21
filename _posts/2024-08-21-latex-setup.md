@@ -70,10 +70,11 @@ Follow the path to Package Control Settings: <kbd>Preferences</kbd> + <kbd>Packa
 
 This will open up two panels. The left panel is preset settings, while the right is for user settings. We'll be using the right one. Copy and add the following code:
 
-<kbd>
 
+```json
 
-{"bootstrapped": true,
+{
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -106,11 +107,7 @@ This will open up two panels. The left panel is preset settings, while the right
 		"View In Browser",
 	],
 }
-	
-
-
-</kbd>
-
+```
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pc_settings2.png "Package Control Settings"){: .align-center}
 
