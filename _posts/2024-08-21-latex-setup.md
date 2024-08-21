@@ -71,11 +71,9 @@ Follow the path to Package Control Settings: <kbd>Preferences</kbd> + <kbd>Packa
 This will open up two panels. The left panel is preset settings, while the right is for user settings. We'll be using the right one. Copy and add the following code:
 
 <kbd>
-{
 
-{
-	
-	"bootstrapped": true,
+
+{"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -109,7 +107,7 @@ This will open up two panels. The left panel is preset settings, while the right
 	],
 }
 	
-}
+
 
 </kbd>
 
