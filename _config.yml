@@ -102,6 +102,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: false
 
   # _pages
   - scope:
