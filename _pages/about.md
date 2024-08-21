@@ -21,9 +21,13 @@ My dissertation examines how criminal groups shape how institutions function and
 I have regional expertise in Mexico, as well as in historical expertise on British rule in Northern Ireland and Northeastern India. I adopt a multi-method empirical approach that includes the training and use of deep-learning models (Computer Vision and Natural Language Processing), as well as design-based casual inference and qualitative process tracing.    
 <br /> 
     
-In other current projects, I examine why states collaborate with certain pro-government militia groups and I formalize the influence of criminal groups on electoral outcomes. I also examine the effect of natural resource shocks on local infrastructure and illicit economies in Mozambique. 
+In some of my other current projects, I examine why the state collaborated with some Loyalist, pro-government militias during the Troubles in Northern Ireland using the declassified, private conversations of top officials. I also examine the effect of natural resource shocks on local infrastructure and illicit economies in Mozambique. 
 <br />
-    
-Prior to joining Emory University, I received my B.A. in [Political Science](https://politicalscience.unca.edu/) from the [University of North Carolina Asheville](https://www.unca.edu/) in 2020, where I was awarded the [2020 Big South Christenberry Award](https://uncabulldogs.com/news/2020/5/20/womens-swimming-diving-adee-weller-receives-2020-big-south-christenberry-award.aspx) and was nominated for [NCAA Woman of the Year](https://www.ncaa.org/news/2020/7/14/ncaa-schools-announce-nominees-for-2020-ncaa-woman-of-the-year.aspx)."
+
+As a co-founder of Women in Political Science at Emory (WiPS-E), I am committed to building and empowering a diverse and inclusive research community that reaches across both academic and policy networks.
+<br />
+
+
+Prior to joining Emory University, I received my B.A. in [Political Science](https://politicalscience.unca.edu/) from the [University of North Carolina Asheville](https://www.unca.edu/) in 2020, where I was awarded the [2020 Big South Christenberry Award](https://uncabulldogs.com/news/2020/5/20/womens-swimming-diving-adee-weller-receives-2020-big-south-christenberry-award.aspx) and was nominated for [NCAA Woman of the Year](https://www.ncaa.org/news/2020/7/14/ncaa-schools-announce-nominees-for-2020-ncaa-woman-of-the-year.aspx).
 
  
