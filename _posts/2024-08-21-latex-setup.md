@@ -65,50 +65,84 @@ Assuming you're still on board, let's change a few of the Package Control settin
 
 Follow the path to Package Control Settings: <kbd>Preferences</kbd> + <kbd>Package Settings</kbd> + <kbd>Package Control</kbd> + <kbd>Settings</kbd>
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/path_to_pc_sttings.jpg "Path to Package Control Settings"){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/path_to_pc_sttings.png "Path to Package Control Settings"){: .align-center}
 
 
 This will open up two panels. The left panel is preset settings, while the right is for user settings. We'll be using the right one. Copy and add the following code:
 
 <kbd>
 {
+
 	"bootstrapped": true,
+
 	"in_process_packages":
+
 	[
+
 	],
+
 	"installed_packages":
+
 	[
+
 		"Agila Theme",
+
 		"CiteBibtex",
+
 		"Citer",
+
 		"Grammatical Framework",
+
 		"ImageMagick",
+
 		"knitr",
+
 		"Language - Spanish",
+
 		"LaTeX Word Count",
+
 		"LaTeXing",
+
 		"LaTeXTools",
+
 		"LSP",
+
 		"LSP-Grammarly",
+
 		"LSP-ltex-ls",
+
 		"LSP-R",
+
 		"Package Control",
+
 		"Pandoc",
+
 		"R-Box",
+
 		"R-IDE",
+
 		"SendCode",
+
 		"sublime-github",
+
 		"SublimeLinter",
+
 		"SublimeLinter-contrib-write-good",
+
 		"SublimeREPL",
+
 		"Terminus",
+
 		"View In Browser",
+
 	],
+	
 }
+
 </kbd>
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pc_settings2.jpg "Package Control Settings"){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pc_settings2.png "Package Control Settings"){: .align-center}
 
 (Depending on what you use, your final packages will undoubtedly look different from mine!)
 
