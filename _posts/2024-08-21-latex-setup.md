@@ -20,9 +20,9 @@ header:
 
 In this series, we will be walking through how to set up Sublime Text Editor -- a fast, flexible, and user-friendly text editor -- for a variety of different programming languages and softwares. (For a more in-depth discussion on the value and pitfalls of Sublime, check out my previous post on Sublime and R.)
 
-In this post, I will work through how to get Sublime set up to write in LaTeX, a typesetting software that is used by publishers and professionals alike. Easily customizable, LaTeX is often far preferred over processors like Microsoft Word in academia. In short, it makes documents, posters, presentations, and other formats clean, clear, and professional.
+In this post, I will work through how to get Sublime set up to write in LaTeX, a typesetting software that is used by publishers and professionals alike. Easily customizable, LaTeX is often far preferred over processors like Microsoft Word in academia. It makes documents, posters, presentations, and other formats clean, clear, and professional.
 
-For this tutorial, I assume you already have Sublime downloaded and set up on your computer. If you haven't done that yet, do it! Or at least, stop reading here, and go do something fun while there's still time.
+For this tutorial, I am going to assume you already have Sublime downloaded and set up on your computer. If you haven't done that yet, do it! Or at least, stop reading here, and go do something fun while there's still time.
 
 
 
@@ -32,7 +32,7 @@ LaTeX (pronounced _lay-tek_ by some and _lah-tek_ by others) is a software syste
 
 Widely used in academia, becoming comfortable with LaTeX is a critical skill for many junior scholars. With it, one can produce beautiful tables, figures, articles, presentations, posters, C.V.s, resumes, books, cover letters, and a whole range of other documents. LaTeX is also highly functional in multilingual environments and non-Latin scripts, typesetting complex mathematical equations, and adding extensive tables. 
 
-To produce a LaTeX product, we will edit an input, through which the software will produce an output (usually a PDF) upon each build. This is different from Word, where both of these are displayed to the user as one joint product. We won't be covering how to format things in LaTeX here (check out [one of many online tutorials here](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)), just getting everything set up.
+To produce a LaTeX product, we will edit an input, through which the software will produce an output (usually a PDF) upon each build. This is in contrast with Mircosoft Word, where both of these are displayed to the user as one joint product. We won't be covering how to format things in LaTeX here (check out [one of many online tutorials here](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)), but we will get everything set up.
 
 
 
@@ -59,7 +59,7 @@ To set up LaTeX within Sublime, we need to ensure that Package Control is succes
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/package_control.jpg "Package Control"){: .align-center}
 
-If it does not, try installing Package Control again.
+If it does not appear, try installing Package Control again.
 
 Assuming you're still on board, let's change a few of the Package Control settings.
 
@@ -109,38 +109,39 @@ This will open up two panels. The left panel is preset settings, while the right
 }
 ```
 
+The settings panels should look something like this:
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/pc_settings2.png "Package Control Settings"){: .align-center}
 
-(Depending on what you use, your final packages will undoubtedly look different from mine!)
+Depending on what you use, your final packages will undoubtedly look different from mine!
 
 Save and close the settings file. This will initiate Sublime to start downloading and setting up all the packages, and can take up to 15 minutes. Grab a coffee or a snack during this time.
 
 In the meantime, we can adjust some of the other settings. Open Prefence settings by selecting <kbd>Preferences</kbd> + <kbd>Settings</kbd>.
 
-Here you can customize the font size, color scheme, and other pretty factors.
+Here you can customize the font size, color scheme, and other pretty factors to your heart's content.
 
-Once some time has passed, we can check if all the packages have been successfully installed by following: <kbd>Preferences</kbd> + <kbd>Package Settings</kbd> + <kbd>Latex tools/kbd> + <kbd>Check system</kbd>.
+Once some time has passed, we can check if all the packages have been successfully installed by following: <kbd>Preferences</kbd> + <kbd>Package Settings</kbd> + <kbd>Latex tools </kbd> + <kbd>Check system</kbd>.
 
 Sublime will run through the files and issue any warnings that arise. All programs should say 'Available'.
 
 ## Opening a Document
 
-To build a PDF, open any .tex file (a LaTeX file) in Sublime. Note that if you have errors, the PDF may not compile. But if everything is working, the PDF should automatically be built upon <kbd>CTRL</kbd> + <kbd>b</kbd> and open in Sumatra. 
+To build a PDF, open any .tex file (a LaTeX file) in Sublime. Note that if you have errors in your set up or formatting definition, the PDF may not compile. But as long as everything is working, the PDF should automatically be built upon <kbd>CTRL</kbd> + <kbd>b</kbd> and open in Sumatra. 
 
-On the Sumatra PDF, double click anywhere on the page, which will take you to the respective location in Sublime.
+Here are some other helpful editing tips:
 
+* On the associated Sumatra PDF, double click anywhere on the page, which will take you to the respective location in Sublime.
 
-Some other helpful editing tips:
-
-* <kbd>CTRL</kbd> + <kbd>r</kbd> shows all sections by their headers for easy navigation.
-
-* You can save whole LaTeX projects, just like in R, with multiple folders, or just keep track of your paths.
-
-* LaTeX preambles (the bit that formats the document) can be a bit repeatitive. I often copy and paste, adjusting as needed to save time.
+* <kbd>CTRL</kbd> + <kbd>r</kbd> in Sublime shows all sections by their headers for easy navigation.
 
 * To select multiple lines simultaneously, hold down <kbd>CTRL</kbd> as you click.
 
-And with that, you should be off to the races! Or at least, off to the publishers.
+* You can save whole LaTeX projects, just like in R, with multiple folders (or carefully keep track of your paths).
+
+* LaTeX preambles (the bit that formats the document) can be a bit repeatitive. I often copy and paste, adjusting as needed to save time and reduce errors.
+
+And with that, you are off to the races! Or at least, off to the publishers.
 
 <!-- A notice displays information that explains nearby content. Often used to call attention to a particular detail.
 
