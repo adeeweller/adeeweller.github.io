@@ -12,10 +12,11 @@ classes: wide
 
 **Welcome!** <br /> <br /> I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). <br />
 
+
 My research focuses on the nexus of criminal violence and state-building. Criminal actors, often overlooked, pose critical security challenges for both contemporary and historical states. They not only influence the effectiveness and conduct of state institutions but are also influenced by them, profoundly impacting human security. Through innovative theoretical frameworks and empirical methods, I aim to to understand these interactions and their consequences for civilians.
 <br /> 
 
-My dissertation examines how criminal groups shape how institutions function and how they are impacted by institutional change. My first paper examines how local institutional change in Mexico effects criminal engagements in elections and democratic processes. My second paper examines how criminal violence and elite alignment in eighteenth century India influenced uneven colonial rule under the English East India Company. Finally, my third paper uses a survey experiment to examine how exposure to criminal violence changes voters' preferences for aggressive policing policies.      
+My dissertation examines how interactions with criminal actors during the initial years of English East India Company rule in Bengal shaped colonial governance. Using a novel collection of internal East India Company documents from 1769 to 1772, I explore the strategic responses to and discussions about criminal violence and profit maximization within Company leadership. This project sheds critical light on the lasting effects of selectively repressing crime and its endogenous impacts on state-building. I have received funding for this through the [National Science Foundation](https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/) and the American Political Science Association (DDRIG).
 <br /> 
      
 I have regional expertise in Mexico, as well as in historical expertise on British rule in Northern Ireland and Northeastern India. I adopt a multi-method empirical approach that includes the training and use of deep-learning models (Computer Vision and Natural Language Processing), as well as design-based casual inference and qualitative process tracing.    
