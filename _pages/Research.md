@@ -51,9 +51,7 @@ How do colonial regimes respond to and discuss issues of criminal violence withi
 
  * _Keywords:_ East India Company; Historical Political Economy; archival research; crackdowns; armed resistence; Bengal
 
-
-
- ### "How Resource Booms Shape Accountability: Liquefied Natural Gas in Cabo Delgado"
+### "How Resource Booms Shape Accountability: Liquefied Natural Gas in Cabo Delgado"
 
  * _Written with:_ Gavin Kiger, Am\'erico Maluana, William Wainwright, and Danielle Jung
 
