@@ -64,7 +64,7 @@ How do natural resource booms shape political accountability? Rapid and sudden i
  * _Keywords:_ Resource booms; accountability; corporate governance; Mozambique; LNG
 
 
-
+> ## Works in Progress
 
 ### "Managing An Extractive Empire: How the East India Company Solved Agency Problems"
 
