@@ -52,6 +52,22 @@ How do colonial regimes respond to and discuss issues of criminal violence withi
  * _Keywords:_ East India Company; Historical Political Economy; archival research; crackdowns; armed resistence; Bengal
 
 
+
+ ### "How Resource Booms Shape Accountability: Liquefied Natural Gas in Cabo Delgado"
+
+ * _Written with:_ Gavin Kiger, Am\'erico Maluana, William Wainwright, and Danielle Jung
+
+<details>
+  <summary>Abstract</summary>
+How do natural resource booms shape political accountability? Rapid and sudden increases in extractive profits alter the relationship between voters, politicians, and corporate actors. This paper examines how oil and gas discoveries in Mozambique’s Rovuma Basin affect voter accountability and perceptions of the democratic process, highlighting the effects of corporate public goods provision. While politicians may divert resource rents to sustain patronage networks and entrench their power, corporations—bound by legal agreements—often take over the provision of essential public services. This dynamic distances politicians from the electorate, reducing voters’ ability to hold them accountable for public goods provision and eroding trust in democratic institutions. By outsourcing development to corporations, incumbents benefit from resource wealth without facing electoral consequences, leading to increased voter cynicism and disengagement. We exploit exogenous variation in oil discoveries across northern Mozambique to test our theory, replying on detailed data on perceptions of governmental actors and trust in officials. The findings will highlight the complex interplay between natural resources, corporate influence, and political accountability, offering new insights into the challenges resource-rich countries face in maintaining democratic governance.
+
+</details>
+
+ * _Keywords:_ Resource booms; accountability; corporate governance; Mozambique; LNG
+
+
+
+
 ### "Managing An Extractive Empire: How the East India Company Solved Agency Problems"
 
 <details>
