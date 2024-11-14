@@ -86,9 +86,9 @@ footer:
     - label: "X"
       icon: "fa-brands fa-square-x-twitter"
       url: "https://twitter.com/AdeeWeller?t=4g8vwVEqvT9z4df_V9MZzQ&s=09"
-   - label: "Bluesky"
-     icon: "fa-brands fa-bluesky"
-     url: "https://bsky.app/profile/adeeweller.bsky.social"
+    - label: "Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/adeeweller.bsky.social"
 
 defaults:
   # _posts
