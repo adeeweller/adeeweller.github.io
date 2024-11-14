@@ -71,11 +71,11 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/adee-weller"
-    - label: "Twitter"
-      icon: "fa6-brands:square-x-twitter"
+    - label: "X (formerly Twitter)"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AdeeWeller?t=4g8vwVEqvT9z4df_V9MZzQ&s=09"
     - label: "Bluesky"
-      icon: "logos:bluesky"
+      icon: "fas fa-fw fa-cloud"
       url: "https://bsky.app/profile/adeeweller.bsky.social"
 
    # - label: "Instagram" ### Twitter: fab fa-fw fa-twitter-square
