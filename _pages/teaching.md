@@ -11,7 +11,7 @@ title: "Teaching"
 
 * Illicit Economies and Actors
 * Electoral Politics
-* Politics of Latin America
+* Politics in the Global South
 * Colonialism and its Consequences
 * Empirical Methods (graduate and undergraduate)
 * Text-as-Data in Political Science
