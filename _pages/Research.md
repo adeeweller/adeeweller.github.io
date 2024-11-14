@@ -54,7 +54,7 @@ How do colonial regimes respond to and discuss issues of criminal violence withi
 
 ### "How Resource Booms Shape Accountability: Liquefied Natural Gas in Cabo Delgado"
 
- * _Written with:_ Gavin Kiger, Am\'erico Maluana, William Wainwright, and Danielle Jung
+ * _Written with:_ Gavin Kiger, Americo Maluana, William Wainwright, and Danielle Jung
 
 <details>
   <summary>Abstract</summary>

@@ -56,6 +56,14 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Theme settings
+minimal_mistakes_skin: "default"
+
+# Custom styles
+custom_sass:
+  - "_sass/minimal-mistakes/custom.scss"
+
+
 author:
   name     : "Adee Weller"
   avatar   : "/assets/images/Weller_fix_1.jpg"
