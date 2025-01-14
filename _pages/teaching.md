@@ -9,7 +9,8 @@ title: "Teaching"
 
 ## Courses I'd Like to Teach
 
-* Illicit Economies and Actors
+* Illicit Economies [[sample syllabus]](https://www.dropbox.com/scl/fi/yt5dysthpjtghlodoxdk5/Illicit_Economies.pdf?rlkey=yvafz41t4dwieh5z3lexmetj0&st=u4w10xj6&dl=0)
+* Political Violence and State-Building [[sample syllabus]](https://www.dropbox.com/scl/fi/sy2h14bc50qcquwl5iobq/Political_Violence_and_State_Building.pdf?rlkey=vykxld39cpqh7u2nqpvhgxw3q&st=21whqbxd&dl=0)
 * Electoral Politics
 * Politics in the Global South
 * Colonialism and its Consequences
