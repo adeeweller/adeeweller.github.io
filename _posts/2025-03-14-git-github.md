@@ -263,6 +263,7 @@ git pull --rebase origin main
 Git and GitHub are essential tools for version control and collaboration. While political scientists are still catching on, these tools are becoming more popular in the field.
 
 By mastering Git, you gain:
+
 ✅ Better organization.  
 ✅ Version control safety.  
 ✅ Seamless collaboration.  
