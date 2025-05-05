@@ -9,9 +9,7 @@ feature_row:
   - image_path: /assets/images/Weller_fix_1.jpg
 
     excerpt: " **Welcome!** <br /> <br /> I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). <br />  <br />
-    
-    My research focuses on the nexus of criminal violence and state-building. Criminal actors, often overlooked, pose critical security challenges for both contemporary and historical states. They not only influence the effectiveness and conduct of state institutions but are also influenced by them, profoundly impacting human security. Through innovative theoretical frameworks and empirical methods, I aim to to understand these interactions and their consequences for civilians.
-
+    My research focuses on the nexus of criminal violence, state-building, and democratic accountability. Criminal actors, often overlooked, pose critical security challenges for both contemporary and historical states. They not only influence the effectiveness and conduct of state institutions but are also influenced by them, profoundly impacting human security. Through innovative theoretical frameworks and empirical methods, I aim to to understand these interactions and their consequences for civilians.
     <br /> <br />
 
     My dissertation examines how criminal groups shape how institutions function and how they are impacted by institutional change. My first paper examines how local institutional change in Mexico effects criminal engagements in elections and democratic processes. My second paper examines how criminal violence and elite alignment in eighteenth century India influenced uneven colonial rule under the English East India Company. Finally, my third paper uses a survey experiment to examine how exposure to criminal violence changes voters' preferences for aggressive policing policies. 
