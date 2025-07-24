@@ -25,19 +25,7 @@ How does the introduction of mayoral reelection shape organized crime's efforts 
 
 <details>
   <summary>Abstract</summary>
-    Why do states support some pro-government militias (PGMs) while actively sup-
-pressing others, particularly when the militias engage in similar behavior? This article
-examines the internal decision-making process of the British government during the
-conflict in Northern Ireland, analyzing 8,430 recently declassified documents from the
-Prime Ministers’ security-based Correspondence Files (1969-1974). These documents
-detail the British government’s internal attitudes and behaviors toward more than 20
-Loyalist PGM groups. We show that the British government identified the benefits
-that certain PGMs could offer in terms of policing, auxiliary military support, and
-buttressing public opinion. The state was also deeply concerned about the long-term
-consequences of collusion, resulting in limited, short-term collaboration with certain
-beneficial PGMs. We provide the first internal account of how governments think about
-and work with PGMs, providing critical insights into how conflicts unfold in real-time,
-and contributing to a broader understanding of state-militia dynamics globally.
+    Why do states deeply collude with some pro-government militias (PGMs), while merely tolerating or repressing others? We develop a theory of selective state-militia collaboration, arguing that states weigh PGMs' coercive utility against risks of future disloyalty. Drawing on 8,430 declassified documents from the British Prime Minister’s security correspondence files (1969–1973), we examine how the British government navigated these trade-offs during the Northern Ireland conflict. We show that states are more likely to form deep alliances with PGMs seen as both militarily useful and reliably loyal. When loyalty is uncertain, even highly capable PGMs receive only tactical or limited support. Acute survival threats, conversely, can override long-term concerns and prompt collaboration with politically misaligned groups. By offering the first internal account of how a state assessed and managed PGMs during an ongoing conflict, this study contributes to research on civil conflict, state repression, and the strategic use of informal violence.
 </details>
 
  * _Keywords:_ Loyalist paramilitaries; UDA; UVF; collusion; pro-government militias; qualitative research; Northern Ireland
@@ -46,57 +34,70 @@ and contributing to a broader understanding of state-militia dynamics globally.
 
 <details>
   <summary>Abstract</summary>
-Why do states repress crime in some areas and allow it to flourish in others, even when crime itself has negative consequences on economies, human safety, and governing power? I suggest that authorities may selective provide--or withhold--repressive apparatuses to local agents as a mechanism of coalition management, rather than a strategy of solely preventing crime. By conditioning the receipt of security support on the loyalty of local intermediaries, authorities can reward loyal agents and coerce dissident ones into collaboration. This allows the central authority to manage their governing coalitions and expand power without formal institutional support. Using original archival data from the early years of English East India Company rule in Bengal (1769–1773), I show that the Company strategically repressed criminal actors to bolster the position of loyal agents while withholding security from those deemed disloyal, leveraging escalating disorder and fiscal crises to coerce compliance. Through a mixed-methods analysis of over 10,000 letters and meeting notes, the paper explores the causal processes underpinning these repressive tactics, demonstrating how the Company's governance strategy relied on managing elite coalitions rather than constructing bureaucratic institutions. This project highlights how states may utilize and exploit concerns about criminal violence under opposition rule as a tool of political gain in both historical and contemporary weak states. Further, these findings contribute to broader debates on political control in weak institutional settings, offering insights into the enduring role of selective repression in shaping governance under conditions of limited state capacity.
+How do colonial regimes use selective repression to manage elite agents and consolidate authority? I argue that colonial authorities prioritize repression of criminal actors in areas governed by loyal elites while withholding protection from those seen as disloyal, using disorder as both a threat and a justification to extract compliance. Drawing on  original data from over 10,000 pages of internal correspondence from the English East India Company (1769–1773), I analyze how British officials responded to criminal violence in early colonial Bengal. Combining qualitative analysis with machine-learning-assisted text digitization and statistical modeling, I show that criminal violence increased repression, but only in districts governed by trusted elites. Where elite loyalty was in doubt, the Company withheld security, weaponizing instability to pressure subordinates into collaboration. This study contributes to research on authoritarian governance, colonial state-building, and the political logic of repression, offering rare insight into how regimes exploit coercion, information asymmetries, and elite competition to consolidate power under conditions of limited state capacity.
 
 </details>
 
- * _Keywords:_ East India Company; Historical Political Economy; archival research; crackdowns; armed resistence; Bengal
+ * _Keywords:_ Colonial rule, repression, India, archival documents, elite manipulation
 
-### "How Resource Booms Shape Accountability: Liquefied Natural Gas in Cabo Delgado"
+### "How Corporate Goods Provision Shapes Accountability and Participation: Evidence from Cabo Delgado"
 
  * _Written with:_ Gavin Kiger, Americo Maluana, William Wainwright, and Danielle Jung
 
 <details>
   <summary>Abstract</summary>
-How do natural resource booms shape political accountability? Rapid and sudden increases in extractive profits alter the relationship between voters, politicians, and corporate actors. This paper examines how oil and gas discoveries in Mozambique’s Rovuma Basin affect voter accountability and perceptions of the democratic process, highlighting the effects of corporate public goods provision. While politicians may divert resource rents to sustain patronage networks and entrench their power, corporations—bound by legal agreements—often take over the provision of essential public services. This dynamic distances politicians from the electorate, reducing voters’ ability to hold them accountable for public goods provision and eroding trust in democratic institutions. By outsourcing development to corporations, incumbents benefit from resource wealth without facing electoral consequences, leading to increased voter cynicism and disengagement. We exploit exogenous variation in oil discoveries across northern Mozambique to test our theory, replying on detailed data on perceptions of governmental actors and trust in officials. The findings will highlight the complex interplay between natural resources, corporate influence, and political accountability, offering new insights into the challenges resource-rich countries face in maintaining democratic governance.
+    How does the provision of public goods by foreign corporations shape electoral engagement? While voters often rely on public goods as indicators of incumbent quality, foreign corporate actors can shape the responsiveness of politicians and the ability of voters to hold them accountable. When corporations, rather than the state, provide public goods, traditional forms of democratic accountability weaken, prompting politicians to prioritize foreign corporate interests and leading citizens to turn to alternative mechanisms, like protest or collective action, to hold both political and corporate actors accountable. We examine the multinational corporate provision of public goods in Northern Mozambique, following the discovery of liquefied natural gas (LNG) in 2006, utilizing a novel collection of concession agreements between the Mozambican government and multinational corporations. We show that, following substantial investments in public infrastructure in areas relevant to LNG extraction, voters were much less likely to vote or campaign, while other non-electoral activities were not affected. This project offers insight into how multinational corporate actors indirectly shape democratic engagement, particularly in developing countries. 
 
 </details>
 
- * _Keywords:_ Resource booms; accountability; corporate governance; Mozambique; LNG
+ * _Keywords:_ Accountability; public goods provision; corporate governance; Mozambique; LNG
+
+
+### "Late Stage Colonialism: Repression and Resistance during the Era of Nation-States"
+
+ * _Written with:_ Daniel Arnon and Michael Rubin
+
+<details>
+  <summary>Abstract</summary>
+     How and why do colonial regimes vary their repertoires of repression within the colonial domain? While regimes are more likely to repress communities with greater anti-colonial resistance activity, there remains substantial variation in the intensity and form (selective vs. indiscriminate) of repression. We argue that local economic value and political opportunity structures are critical factors shaping patterns of colonial repression. In economically valuable areas, colonial authorities invest in public goods and cultivate alliances with local elites. This reduces locals' incentives for resistance, thereby reducing the likelihood of repression overall, while also increasing the regime's incentives and capabilities to deploy selective repression when resistance violence does occur. In peripheral areas, the regime under-invests in governance and intermediary relationships, which lowers the cost of resistance and restricts the regime's capability to repress selectively, increasing the likelihood of lower-cost indiscriminate collective targeting. We evaluate this argument in the context of British Mandate Palestine, where colonial authorities confronted widespread anti-colonial mobilization during the 1936–1939 Arab Revolt. Drawing upon British, Israeli, and Palestinian archival sources, we construct a dataset measuring local-level variation in village-level politics, economics, and repression across hundreds of communities. The findings advance understanding of colonial governance and coercive state-building by showing how regimes combine violence and co-optation to manage resistance and secure their political and extractive interests.
+
+</details>
+
+ * _Keywords:_ Colonial rule; repression; British Mandate Palestine; archival records
+
+ 
+### "Echoes of Intervention: Conflict in the Interim of the Multinational Security Support Mission in Haiti"
+
+ * _Written with:_ Martin Castillo Quintana, Camila Contreras, and Mathias Lusquinos
+
+<details>
+  <summary>Abstract</summary>
+     How does the anticipated threat of international military intervention shape the strategic behavior of armed criminal groups? We explore patterns of gang violence and mobility patterns in Haiti from 2023 to 2024 using daily data reports from multiple resources to examine the effects of critical shocks following an international militarized response to escalatory violence, including the UN Security Council approval, a Kenyan Supreme Court blockage, Ariel Henry’s visit to Kenya, the formation of a transitional council, and the arrival of Kenyan troops. The results indicate that gangs strategically adjust their violence in response to these events, decreasing inter-gang confrontations as groups form alliances and turn against the state ahead of the arrival of international forces and increasing violence enacted at a distance, including attacks on infrastructure or public spaces, while also influencing population mobility, with heterogeneous impacts across communes. This study contributes to research on the effectiveness and unintended consequences of international interventions by showing how the anticipation, not just the presence, of peacekeeping forces can reshape patterns of criminal violence in fragile states.
+
+</details>
+
+ * _Keywords:_ Haiti; Gang Violence; Signaling; ITS; MSS; Kenyan Intervention
 
 
 > ## Works in Progress
 
-### "Managing An Extractive Empire: How the East India Company Solved Agency Problems"
+### "Understanding Gang Reactions to International Humanitarian Intervention in Haiti"
 
-<details>
-  <summary>Abstract</summary>
-  To be hired by the English East India Company (EIC), an individual was generally required to be between fifteen and eighteen years old. With little training or local knowledge, employees were sent across the globe, supplied with arms, and instructed to maximize profits. As such, the EIC was plagued by agency problems from its inception. How do organizations solve this challenge? This is particularly acute in economically driven groups, where hiring a profit-seeking employee can both be highly beneficial but also highly risky. Examining the internal communications of the EIC as it shifted from a trading company to a governing authority, I show that the Company was deeply concerned about this issue. As a result, they formed an institutional structure of intelligence sharing and reporting on other's behavior, maximizing transparency and bureaucratizing spying. This project helps us understand how a group's organization shapes its behavior and responses to challenges.
-</details>
-
- * _Keywords:_ East India Company; Historical Political Economy; archival research; agency problems; organizational theory
-
-
-### "Arming the Armed: Explaining How Violent Groups Delegate Coercive Authority"
-
-<details>
-  <summary>Abstract</summary> 
-  Violent armed groups around the world formally designate institutions, from specialized coercive institutions to ones that provide services. For groups that seek to reform, remove, or supplant the state, these institutions are a mechanism of direct governance by which the groups can impose a new political or social order. For groups that do not seek statehood, however, these institutions help them achieve their non-political goals, such as economic ones. However, because these groups do not rival the state, they can also co-opt state institutions and govern indirectly. This project examines the trade-off that non-state-seeking groups face when choosing an institutional arrangement. They can govern indirectly, through co-opting state institutions, or directly by developing their own institutions. Indirect governance establishes immediate access to state power but introduces principal-agent problems. When the state is unable to serve a faithful agent, groups may choose to form their own institutions. These can be more effective but also are much more costly to establish and maintain. I examine this conceptualization using qualitative evidence of coercive institutions by criminal groups in Mexico (1990-2010).
-</details>
-
- * _Keywords:_ criminal governance; institutions; non-state governance; order
+ * _Written with:_ Martin Castillo Quintana and Reynell Badillo Sarmiento
 
 ### "Divergent Accountability? Competing Principals and Incomplete Contracts"
 
-<details>
-  <summary>Abstract</summary>
-How does the introduction of competing principals impact voters' ability to hold politicians accountable? This project builds off of canonical models of democratic accountability, which frame reelection as a chance for voters to solve the moral hazard problem they face with politicians. Here, however, there is a second principal who is also vying for control of the politician, as the agent, but who has fundamentally divergent goals from the voters. This principal also has a different set of skills that they can employ to coerce the official, using both bribes and threats. The politician, therefore, must appraise the risks they face and the value of holding office, given the incentives offered by each of the principals. This model has broad applications, applying wherever principals, armed with differing capacities, compete for control of an agent.
-</details>
+### "Informal Empire and Elite Manipulation in Northern India"
 
- * _Keywords:_ multiple principals; accountability; moral hazard; delegation; organized crime; formal model
+### "Resource Extraction and the Displacement of Conflict in Northern Mozambique"
 
+ * _Written with:_ Gavin Kiger, Americo Maluana, William Wainwright, and Danielle Jung
 
+### "Election Branding and Public Trust: The Role of Image in Shaping Voter Confidence"
 
+ * _Written with:_ Anthony DeMattee
+
+### "Providence"
 
 > ## Data Collection
 
