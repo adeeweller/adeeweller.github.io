@@ -28,8 +28,9 @@ I employ a multi-method empirical approach that includes:
 Some other current projects include:
 
 - Why the British state collaborated with Loyalist militias during the Troubles in Northern Ireland, using declassified conversations among top officials.
-- How mayoral reelection in Mexico affects criminal infiltration into elections.
+- How the introduction of mayoral reelection in Mexico affects criminal infiltration into elections.
 - How natural resource shocks in Mozambique shape infrastructure investment and illicit economies.
+- How the anticipation of international military intervention shapes gang violence and civilian mobility in Haiti.
 <br /> 
 
 As a co-founder of Women in Political Science at Emory (WiPS-E), I am committed to building and empowering a diverse and inclusive research community that reaches across both academic and policy networks.
