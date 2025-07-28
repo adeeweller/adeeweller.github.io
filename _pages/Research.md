@@ -11,6 +11,8 @@ Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
 
 ### "Defending the Status Quo? How Reelection Shapes Criminal Collusion in Mexico."
 
+* _Keywords:_ Revise and Resubmit at the British Journal of Political Science.
+
 <details>
   <summary>Abstract</summary>
 
