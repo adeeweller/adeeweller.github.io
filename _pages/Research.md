@@ -11,7 +11,7 @@ Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
 
 ### "Defending the Status Quo? How Reelection Shapes Criminal Collusion in Mexico."
 
-* _Revise and Resubmit at the British Journal of Political Science._ 
+_Revise and Resubmit at the British Journal of Political Science._ 
 
 <details>
   <summary>Abstract</summary>
@@ -24,6 +24,8 @@ How does the introduction of mayoral reelection shape organized crime's efforts 
 ### "Violence Incorporated? State Response to Pro-Government Militias in Northern Ireland"
 
  * _Written with:_ Danielle Villa, Emily Gade, and Sarah Dreier
+
+_Under Review._
 
 <details>
   <summary>Abstract</summary>
