@@ -47,7 +47,7 @@ title: "Teaching"
 
 ### Teaching Evaluations 
 
-On average, my classes receive higher student evaluation scores than other Political Science classes, as well as Emory University courses at large. Below are a few anonymous reviews on my teaching:
+My classes received student evaluation scores that were higher than the average for both Political Science courses and Emory University courses overall. Below are a few anonymous reviews on my teaching:
 ​
 * "Adee was absolutely amazing. Could not sing her praises enough!!! She was always willing to help, super responsive via email + during class, and she
 made it clear that she really wanted us to learn/enjoy section."
