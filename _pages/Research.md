@@ -5,13 +5,13 @@ author_profile: true
 permalink: /research/
 title: "Research"
 ---
-> ## Working Papers
 
-Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
+  ## Publications
 
+  
 ### "Defending the Status Quo? How Reelection Shapes Criminal Collusion in Mexico."
 
-_Revise and Resubmit at the British Journal of Political Science._ 
+_Forthcoming at the British Journal of Political Science._ 
 
 <details>
   <summary>Abstract</summary>
@@ -20,6 +20,12 @@ How does the introduction of mayoral reelection shape organized crime's efforts 
 </details>
 
 * _Keywords:_ reelection; institutional reform; organized crime; criminal violence; elections; Mexico
+
+
+
+> ## Working Papers
+
+Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
 
 ### "Violence Incorporated? State Response to Pro-Government Militias in Northern Ireland"
 
