@@ -6,7 +6,7 @@ permalink: /research/
 title: "Research"
 ---
 
-  ## Publications
+> ## Publications
 
   
 ### "Defending the Status Quo? How Reelection Shapes Criminal Collusion in Mexico."
