@@ -41,6 +41,7 @@ title: "Teaching"
   * Introduction to analytical concepts, the nature of the interstate system, the assumptions and ideas of diplomacy, the determinants of foreign policy.
 
 * Organized and led a small team of undergraduates (from sophomores to seniors) from Fall 2021 to present. We have worked on the following projects:
+  * Electoral Integrity Project (EIP) 
   * Criminal Governance in the News
   * Understanding Criminal Enforcement Wings
   * Digitizing Private Correspondence from the East India Company (1769-1773)
@@ -54,7 +55,7 @@ made it clear that she really wanted us to learn/enjoy section."
 
 * "Adee, you are an incredible lecturer. Was a joy hearing you speak and you provided me so much information."
 
-* "I love the way the lessons were explained and your incorportation of games made it really enjoyable. And it left me wanting to learn more about Political Science."
+* "I love the way the lessons were explained and your incorporation of games made it really enjoyable. And it left me wanting to learn more about Political Science."
 
 
 
