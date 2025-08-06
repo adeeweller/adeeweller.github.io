@@ -12,7 +12,7 @@ classes: wide
 
 **Welcome!** <br /> <br /> I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). <br />
 
-I study criminal violence, political order, and institutional development, using both contemporary and historical cases. My research explores how criminal violence shapes political institutions — and how states, in turn, exploit violence to consolidate power. I use tools from causal inference, deep learning (NLP and Computer Vision), and qualitative process tracing to analyze these dynamics across time and space.
+I study criminal violence, political order, and institutional development, using both contemporary and historical cases. My research explores how criminal violence shapes political institutions — and how states, in turn, exploit violence to consolidate power. I use tools from causal inference, deep learning, and qualitative process tracing to analyze these dynamics across time and space.
 <br /> 
 
 My dissertation investigates how authorities leverage criminal violence as a tool of coercion to manipulate elite coalitions and sustain extractive governance, drawing on a novel collection of internal documents from the English East India Company (1769–1773). I have received funding for this through the [National Science Foundation](https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/) and the American Political Science Association (DDRIG).
@@ -20,15 +20,15 @@ My dissertation investigates how authorities leverage criminal violence as a too
      
 I employ a multi-method empirical approach that includes:
 
-- Deep learning techniques (computer vision and natural language processing)
-- Design-based causal inference
-- Archival analysis and qualitative process tracing
+- Deep learning techniques (computer vision and natural language processing).
+- Design-based causal inference.
+- Archival analysis and qualitative process tracing.
 <br /> 
 
 Some other current projects include:
 
-- Why the British state collaborated with Loyalist militias during the Troubles in Northern Ireland, using declassified conversations among top officials.
 - How the introduction of mayoral reelection in Mexico affects criminal infiltration into elections.
+- Why the British state collaborated with Loyalist militias during the Troubles in Northern Ireland, using declassified conversations among top officials.
 - How natural resource shocks in Mozambique shape infrastructure investment and illicit economies.
 - How the anticipation of international military intervention shapes gang violence and civilian mobility in Haiti.
 <br /> 

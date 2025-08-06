@@ -43,7 +43,6 @@ title: "Teaching"
 * Organized and led a small team of undergraduates (from sophomores to seniors) from Fall 2021 to present. We have worked on the following projects:
   * Electoral Integrity Project (EIP) 
   * Criminal Governance in the News
-  * Understanding Criminal Enforcement Wings
   * Digitizing Private Correspondence from the East India Company (1769-1773)
 
 ### Teaching Evaluations 
