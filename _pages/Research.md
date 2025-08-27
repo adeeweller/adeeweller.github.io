@@ -48,7 +48,7 @@ How do colonial regimes use selective repression to manage elite agents and cons
 
 </details>
 
- * _Keywords:_ Colonial rule, repression, India, archival documents, elite manipulation
+ * _Keywords:_ Colonial state-building; strategic repression; crime regulation; English East India Company; archival evidence
 
 ### "How Corporate Goods Provision Shapes Accountability and Participation: Evidence from Cabo Delgado"
 
@@ -129,4 +129,5 @@ How do criminal groups govern? While our understanding of governance by criminal
 </details>
 
  * _Keywords:_ Criminal Governance; Latin America; Natural Language Processing; supervised machine learning
+
 
