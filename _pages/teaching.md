@@ -9,7 +9,7 @@ title: "Teaching"
 
 ## Courses I'd Like to Teach
 
-* Illicit Economies [[sample syllabus]](https://www.dropbox.com/scl/fi/yt5dysthpjtghlodoxdk5/Illicit_Economies.pdf?rlkey=yvafz41t4dwieh5z3lexmetj0&st=u4w10xj6&dl=0)
+* Illicit Economies [[sample syllabus]](https://www.dropbox.com/scl/fi/fev07z14hvrxgnn0uww60/sample_syllabus_Weller_24.pdf?rlkey=knwg7a0ifzun3bj5pibt3is23&st=3f9usrsw&dl=0)
 * Political Violence and State-Building [[sample syllabus]](https://www.dropbox.com/scl/fi/sy2h14bc50qcquwl5iobq/Political_Violence_and_State_Building.pdf?rlkey=vykxld39cpqh7u2nqpvhgxw3q&st=21whqbxd&dl=0)
 * Electoral Politics
 * Politics in the Global South
@@ -69,3 +69,4 @@ made it clear that she really wanted us to learn/enjoy section."
     * [January Refresher](https://github.com/adeeweller/R_Workshop/tree/main/January_Refresher) (Refresher course on key coding skills and best practices)
 
     * [Spring Sessions](https://github.com/adeeweller/R_Workshop/tree/main/Spring_Sessions) (Data, R code, exercises, problem sets, and answer keys, paced with POLS 509 (Linear Models) at Emory University)
+
