@@ -11,7 +11,7 @@ title: "Research"
   
 ### "Defending the Status Quo? How Reelection Shapes Criminal Collusion in Mexico."
 
-_Forthcoming at the British Journal of Political Science._ [Pdf.](https://www.dropbox.com/scl/fi/gjo3u1usl0e02moah25dz/BJPolS_Final.pdf?rlkey=haxge7aps37e0boywd0f0o8ve&st=evcor4cc&dl=0) [Appendix.](https://www.dropbox.com/scl/fi/gpjqkk0rusqy3xhwhogou/BJPolS_Final_SI.pdf?rlkey=e3s1t8o154b6aihnlp6pykit4&st=mthlcmcs&dl=0)
+_Forthcoming at the British Journal of Political Science._ [Pdf.](https://www.dropbox.com/scl/fi/gjo3u1usl0e02moah25dz/BJPolS_Final.pdf?rlkey=haxge7aps37e0boywd0f0o8ve&st=it588g6f&dl=0) [Appendix.](https://www.dropbox.com/scl/fi/gpjqkk0rusqy3xhwhogou/BJPolS_Final_SI.pdf?rlkey=e3s1t8o154b6aihnlp6pykit4&st=mthlcmcs&dl=0)
 
 <details>
   <summary>Abstract</summary>
@@ -48,7 +48,7 @@ How do colonial regimes use selective repression to manage elite agents and cons
 
 </details>
 
- * _Keywords:_ Colonial rule, repression, India, archival documents, elite manipulation
+ * _Keywords:_ Colonial state-building; strategic repression; crime regulation; English East India Company; archival evidence
 
 ### "How Corporate Goods Provision Shapes Accountability and Participation: Evidence from Cabo Delgado"
 
@@ -129,3 +129,5 @@ How do criminal groups govern? While our understanding of governance by criminal
 </details>
 
  * _Keywords:_ Criminal Governance; Latin America; Natural Language Processing; supervised machine learning
+
+
