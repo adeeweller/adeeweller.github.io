@@ -47,7 +47,7 @@ title: "Teaching"
 
 ### Teaching Evaluations 
 
-My classes received student evaluation scores that were higher than the average for both Political Science courses and Emory University courses overall. Here is a [summary of my evaluations](https://www.dropbox.com/scl/fi/eol5y011b8or9eph7uzej/Weller_teaching_evaluation_summary.pdf?rlkey=94n3uvtmwyylokhagd4ln6ixo&st=xi9gouta&dl=0), and a few anonymous reviews on my teaching:
+My classes received student evaluation scores that were higher than the average for both Political Science courses and Emory University courses overall. Here is a [summary of my evaluations](https://www.dropbox.com/scl/fi/eol5y011b8or9eph7uzej/Weller_teaching_evaluation_summary.pdf?rlkey=94n3uvtmwyylokhagd4ln6ixo&st=4wwywn36&dl=0), and a few anonymous reviews on my teaching:
 ​
 * "Adee was absolutely amazing. Could not sing her praises enough!!! She was always willing to help, super responsive via email + during class, and she
 made it clear that she really wanted us to learn/enjoy section."
