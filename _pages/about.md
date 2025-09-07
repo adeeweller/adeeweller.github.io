@@ -19,7 +19,7 @@ I study how states govern in fragmented and contested settings by outsourcing co
 My dissertation investigates how authorities leverage criminal violence as a tool of coercion to manipulate elite coalitions and sustain extractive governance, drawing on a novel collection of internal documents from the English East India Company (1769–1773). I have received funding for this through the [National Science Foundation](https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/) and the American Political Science Association (DDRIG).
 <br /> 
      
-I employ a multi-method empirical approach that includes:
+Across my projects, I employ a multi-method empirical approach that includes:
 
 - Deep learning techniques (computer vision and natural language processing).
 - Design-based causal inference.
