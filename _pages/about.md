@@ -12,7 +12,8 @@ classes: wide
 
 **Welcome!** <br /> <br /> I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). <br />
 
-I study criminal violence, political order, and institutional development, using both contemporary and historical cases. My research explores how criminal violence shapes political institutions — and how states, in turn, exploit violence to consolidate power. I use tools from causal inference, deep learning, and qualitative process tracing to analyze these dynamics across time and space.
+
+I study how states govern in fragmented and contested settings by outsourcing coercive power to actors such as criminal organizations, pro-government militias, and multinational corporations---groups that do not seek to overthrow the state but nonetheless profoundly shape its development. Drawing on archival research, fieldwork, causal inference, and large-scale text analysis, I examine these dynamics across diverse contexts including Mexico, Mozambique, Northern Ireland, Haiti, and Bengal.
 <br /> 
 
 My dissertation investigates how authorities leverage criminal violence as a tool of coercion to manipulate elite coalitions and sustain extractive governance, drawing on a novel collection of internal documents from the English East India Company (1769–1773). I have received funding for this through the [National Science Foundation](https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/) and the American Political Science Association (DDRIG).
