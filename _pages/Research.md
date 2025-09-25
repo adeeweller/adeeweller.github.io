@@ -31,7 +31,7 @@ Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
 
  * _Written with:_ Danielle Villa, Emily Gade, and Sarah Dreier
 
-_Under Review._
+_Under Review._ [Pdf.](https://www.dropbox.com/scl/fi/66dsowaubwz4km9tz894c/Weller_PGMs_Ireland.pdf?rlkey=gnnjfg13sq5t25fbpdaaxvdvj&st=p2g7p01r&dl=0)
 
 <details>
   <summary>Abstract</summary>
@@ -42,6 +42,8 @@ _Under Review._
 
 ### "Empires of Blood and Ruin: Colonial Repression and Criminal Actors in British India"
 
+[Pdf.](https://www.dropbox.com/scl/fi/7so36bg58kyjg49jmzwaq/Weller_JMP.pdf?rlkey=kaf4cxzybnlt2n1nkwjnpdwsj&st=dif0y938&dl=0)
+
 <details>
   <summary>Abstract</summary>
 How do colonial regimes use selective repression to manage elite agents and consolidate authority? I argue that colonial authorities prioritize repression of criminal actors in areas governed by loyal elites while withholding protection from those seen as disloyal, using disorder as both a threat and a justification to extract compliance. Drawing on  original data from over 10,000 pages of internal correspondence from the English East India Company (1769–1773), I analyze how British officials responded to criminal violence in early colonial Bengal. Combining qualitative analysis with machine-learning-assisted text digitization and statistical modeling, I show that criminal violence increased repression, but only in districts governed by trusted elites. Where elite loyalty was in doubt, the Company withheld security, weaponizing instability to pressure subordinates into collaboration. This study contributes to research on authoritarian governance, colonial state-building, and the political logic of repression, offering rare insight into how regimes exploit coercion, information asymmetries, and elite competition to consolidate power under conditions of limited state capacity.
@@ -49,6 +51,20 @@ How do colonial regimes use selective repression to manage elite agents and cons
 </details>
 
  * _Keywords:_ Colonial state-building; strategic repression; crime regulation; English East India Company; archival evidence
+
+
+### "Echoes of Intervention: Conflict in the Interim of the Multinational Security Support Mission in Haiti"
+
+ * _Written with:_ Martin Castillo Quintana, Camila Contreras, and Mathias Lusquinos. [Pdf.](https://www.dropbox.com/scl/fi/q2l66zmfb12h9qindja8r/Echoes_of_Intervention_09252025.pdf?rlkey=ahe6fkdtez5cjohkrioiwo6a6&st=wh80cf8f&dl=0)
+
+<details>
+  <summary>Abstract</summary>
+       Foreign military interventions in fragile states often echo earlier eras of imperial policing by projecting power into contested spaces under the banner of order. This paper examines how the anticipation of such an intervention, rather than its physical presence, alters the strategic behavior of armed criminal groups and constrains civilian life. Focusing on the U.N. Multinational Security Support (MSS) Mission in Haiti (2023–2024), we exploit a daily panel of commune-level data on gang violence, using data from ACLED, Haitian press reports, and Flowminder mobile-phone mobility records, to trace the impact of five exogenous information shocks on the mission's likelihood and timing. We find that as the intervention appeared more imminent, gangs reduced inter-gang clashes and forged tactical alliances, redirected violence toward the state, and escalated remote attacks on infrastructure. These anticipatory shifts had immediate civilian consequences, as heightening violence reduced both intra- and inter-communal movement, revealing how violence shapes everyday mobility. By integrating high-frequency measures of both violence and movement, this study contributes to research on the consequences of external security governance, showing that the pre-deployment phase of intervention is a politically charged period in which armed actors and civilians adapt in ways that can entrench insecurity before the first foreign boots touch the ground. 
+
+</details>
+
+ * _Keywords:_ Haiti; Gang Violence; Signaling; ITS; MSS; Kenyan Intervention
+
 
 ### "How Corporate Goods Provision Shapes Accountability and Participation: Evidence from Cabo Delgado"
 
@@ -76,18 +92,6 @@ How do colonial regimes use selective repression to manage elite agents and cons
  * _Keywords:_ Colonial rule; repression; British Mandate Palestine; archival records
 
  
-### "Echoes of Intervention: Conflict in the Interim of the Multinational Security Support Mission in Haiti"
-
- * _Written with:_ Martin Castillo Quintana, Camila Contreras, and Mathias Lusquinos
-
-<details>
-  <summary>Abstract</summary>
-       Foreign military interventions in fragile states often echo earlier eras of imperial policing by projecting power into contested spaces under the banner of order. This paper examines how the anticipation of such an intervention, rather than its physical presence, alters the strategic behavior of armed criminal groups and constrains civilian life. Focusing on the U.N. Multinational Security Support (MSS) Mission in Haiti (2023–2024), we exploit a daily panel of commune-level data on gang violence, using data from ACLED, Haitian press reports, and Flowminder mobile-phone mobility records, to trace the impact of five exogenous information shocks on the mission's likelihood and timing. We find that as the intervention appeared more imminent, gangs reduced inter-gang clashes and forged tactical alliances, redirected violence toward the state, and escalated remote attacks on infrastructure. These anticipatory shifts had immediate civilian consequences, as heightening violence reduced both intra- and inter-communal movement, revealing how violence shapes everyday mobility. By integrating high-frequency measures of both violence and movement, this study contributes to research on the consequences of external security governance, showing that the pre-deployment phase of intervention is a politically charged period in which armed actors and civilians adapt in ways that can entrench insecurity before the first foreign boots touch the ground. 
-
-</details>
-
- * _Keywords:_ Haiti; Gang Violence; Signaling; ITS; MSS; Kenyan Intervention
-
 
 > ## Works in Progress
 
@@ -129,5 +133,6 @@ How do criminal groups govern? While our understanding of governance by criminal
 </details>
 
  * _Keywords:_ Criminal Governance; Latin America; Natural Language Processing; supervised machine learning
+
 
 
