@@ -10,7 +10,7 @@ classes: wide
 ---
 
 
-**Welcome!** <br /> <br /> I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). <br />
+**Welcome!** <br /> <br /> I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html), and I am on the job market this year. <br />
 
 
 I study how states govern in fragmented and contested settings by outsourcing coercive power to actors such as criminal organizations, pro-government militias, and multinational corporations. These groups that do not seek to overthrow the state but nonetheless profoundly shape its development. Drawing on archival research, fieldwork, causal inference, and large-scale text analysis, I examine these dynamics across diverse contexts including Mexico, Mozambique, Northern Ireland, Haiti, and Bengal.
