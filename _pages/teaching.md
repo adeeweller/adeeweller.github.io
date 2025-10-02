@@ -9,13 +9,14 @@ title: "Teaching"
 
 ## Courses I'd Like to Teach
 
+* Introduction to Comparative Politics and International Relations
 * Illicit Economies [[sample syllabus]](https://www.dropbox.com/scl/fi/fev07z14hvrxgnn0uww60/sample_syllabus_Weller_24.pdf?rlkey=knwg7a0ifzun3bj5pibt3is23&st=3f9usrsw&dl=0)
 * Political Violence and State-Building [[sample syllabus]](https://www.dropbox.com/scl/fi/sy2h14bc50qcquwl5iobq/Political_Violence_and_State_Building.pdf?rlkey=vykxld39cpqh7u2nqpvhgxw3q&st=21whqbxd&dl=0)
 * Electoral Politics
 * Politics in the Global South
 * Colonialism and its Consequences
-* Empirical Methods (graduate and undergraduate)
-* Text-as-Data in Political Science
+* Empirical and Research Methods (graduate and undergraduate)
+* Applying AI to Research in Political Science
 
 
 
