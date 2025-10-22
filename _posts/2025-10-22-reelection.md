@@ -32,7 +32,7 @@ In 2014, Mexico implemented a reform that permitted state legislatures to allow 
 
 Following state legislative calendars, states began to approve mayoral re-election in 2015, 2016, and 2017, effective for the nationally coordinated elections in June of 2018. Here's a map of these approvals:
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/approval.pdf "Mayoral Re-election Approval"){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/approval.jpg "Mayoral Re-election Approval"){: .align-center}
 
 To learn more about the reform, check out [Motolinia (2025)](https://www-cambridge-org/core/books/unity-through-particularism/D375BDA7570E460357FCC27E78C5F9C6?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark). In some states, mayors could only serve consecutively twice, while in others, they could hold office up to four terms (twelve years in total).
 
@@ -42,7 +42,7 @@ I compare how the introduction of mayoral re-election changed two outcomes: firs
 
 The results show that, when mayors can run for re-election in places where criminal groups are powerful and entrenched in local illicit economies, they are also significantly more likely to kill candidates that challenge the incumbent mayor. Using a conservative proxy for criminal entrenchment in local politics (presence of poppy fields), I show that organized criminal groups use electoral violence to ensure that their preferred candidate gets into and stays in office, allowing continued benefits of co-opted governance. Here's a visualization of the effects of the reform by victim:
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/CSA_attge_poppies.pdf "Effects of Re-election on Electoral Violence"){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/CSA_attge_poppies.jpg "Effects of Re-election on Electoral Violence"){: .align-center}
 
 When mayors can run for re-election in areas where organized crime already shapes politics, these municipalities are 79% more likely to be selected for budgetary audits by *La Auditorıa Superior de la Federacion* (ASF), an independent auditing body that selects municipalities based on their likelihood of corruption and mis-spending. These audits also reveal an average 74.7% increase in improperly allocated municipal spending, suggestive of corrupt practices. 
 
