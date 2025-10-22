@@ -9,7 +9,7 @@ title: "Research"
 > ## Publications
 
   
-### "Defending the Status Quo? How Reelection Shapes Criminal Collusion in Mexico."
+### "Defending the Status Quo? How Re-election Shapes Criminal Collusion in Mexico."
 
 _Forthcoming at the British Journal of Political Science._ [Pdf.](https://www.dropbox.com/scl/fi/gjo3u1usl0e02moah25dz/BJPolS_Final.pdf?rlkey=haxge7aps37e0boywd0f0o8ve&st=it588g6f&dl=0) [Appendix.](https://www.dropbox.com/scl/fi/gpjqkk0rusqy3xhwhogou/BJPolS_Final_SI.pdf?rlkey=e3s1t8o154b6aihnlp6pykit4&st=mthlcmcs&dl=0)
 
