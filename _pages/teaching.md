@@ -12,6 +12,7 @@ title: "Teaching"
 * Introduction to Comparative Politics and International Relations
 * Illicit Economies [[sample syllabus]](https://www.dropbox.com/scl/fi/fev07z14hvrxgnn0uww60/sample_syllabus_Weller_24.pdf?rlkey=knwg7a0ifzun3bj5pibt3is23&st=3f9usrsw&dl=0)
 * Political Violence and State-Building [[sample syllabus]](https://www.dropbox.com/scl/fi/sy2h14bc50qcquwl5iobq/Political_Violence_and_State_Building.pdf?rlkey=vykxld39cpqh7u2nqpvhgxw3q&st=21whqbxd&dl=0)
+* Criminal Governance
 * Electoral Politics
 * Politics in the Global South
 * Colonialism and its Consequences
@@ -31,12 +32,14 @@ title: "Teaching"
 * Instructor for Technology Bootcamp (Graduate level, with Eddy Yeung, Fall 2023-Spring 2024)
   * Crash course on the best practices for software such as R, LaTeX, python, and text editors, as well as citation managers and other organizational software. See below for code.
 
+* Guest Lecturer for POLS 320: Political Violence with Dr. Caroline Brandt (Fall 2023)
+  * Lead lecture and discussion on how organized crime shapes local politics in Mexico, with implications for governance elsewhere.
+
 * Instructor for Emerging Security Studies Fellow Program (Carnegie Institute of New York, Fall 2023)
   * Led lecture and discussion on what security studies are, how history has shaped them, and their implications for public policy.
 
 * TA for POLS 208: Research Design and Methods with Dr. Carly Potz-Nielsen (Spring 2023)
   * Fundamental concepts and quantitative techniques of empirical political inquiry. Introduction to concepts of measurement, parametric, and non-parametric statistics.
-
 
 * Grader for POLS 110: Introduction to International Politics with Dr. David Davis III (Spring 2022)
   * Introduction to analytical concepts, the nature of the interstate system, the assumptions and ideas of diplomacy, the determinants of foreign policy.
@@ -70,4 +73,5 @@ made it clear that she really wanted us to learn/enjoy section."
     * [January Refresher](https://github.com/adeeweller/R_Workshop/tree/main/January_Refresher) (Refresher course on key coding skills and best practices)
 
     * [Spring Sessions](https://github.com/adeeweller/R_Workshop/tree/main/Spring_Sessions) (Data, R code, exercises, problem sets, and answer keys, paced with POLS 509 (Linear Models) at Emory University)
+
 
