@@ -9,17 +9,15 @@ title: "Research"
 > ## Publications
 
   
-### "Defending the Status Quo? How Re-election Shapes Criminal Collusion in Mexico."
-
-_Forthcoming at the British Journal of Political Science._ [Pdf.](https://www.dropbox.com/scl/fi/gjo3u1usl0e02moah25dz/BJPolS_Final.pdf?rlkey=haxge7aps37e0boywd0f0o8ve&st=it588g6f&dl=0) [Appendix.](https://www.dropbox.com/scl/fi/gpjqkk0rusqy3xhwhogou/BJPolS_Final_SI.pdf?rlkey=e3s1t8o154b6aihnlp6pykit4&st=mthlcmcs&dl=0)
+### Weller, Adee. 2025. "Defending the Status Quo? How Re-election Shapes Criminal Collusion in Mexico." _British Journal of Political Science_ 55:e144. doi:10.1017/S0007123425100896 [Pdf.](https://www.dropbox.com/scl/fi/gjo3u1usl0e02moah25dz/BJPolS_Final.pdf?rlkey=haxge7aps37e0boywd0f0o8ve&st=it588g6f&dl=0) [Appendix.](https://www.dropbox.com/scl/fi/gpjqkk0rusqy3xhwhogou/BJPolS_Final_SI.pdf?rlkey=e3s1t8o154b6aihnlp6pykit4&st=mthlcmcs&dl=0)
 
 <details>
   <summary>Abstract</summary>
 
-How does the introduction of mayoral reelection shape organized crime's efforts to collude with local officials? While reelection can provide voters with a critical mechanism to hold elected officials accountable, I show that the positive benefits of reelection do not extend to high-crime areas. Where organized crime is powerful and deeply entrenched in local illicit economies, reelection can provide groups opportunities to collude more closely with mayors, engaging in more electoral violence to deter challengers and benefiting from access to state protection. Exploiting exogenous variation in the introduction of mayoral reelection in Mexico using a difference-in-differences design and a novel dataset on violence against local politicians, I show that criminal groups disproportionately killed rival candidates in places where incumbents could run for reelection, maintaining the status quo and keeping incumbents in power. Further, re-electable mayors were more likely be found to engage in corruption following the introduction of reelection, only in high-crime areas. This letter highlights the unintended consequences of institutional reforms in high-crime areas, emphasizing the need for tailored guardrails by policy-makers to reduce these collateral effects.
+How does the introduction of mayoral re-election shape organized crime's efforts to collude with local officials? While re-election can provide voters with a critical mechanism to hold elected officials accountable, I show that the positive benefits of re-election do not extend to high-crime areas. Where organized crime is powerful and deeply entrenched in local illicit economies, re-election can provide groups opportunities to collude more closely with mayors, engaging in more electoral violence to deter challengers and benefiting from access to state protection. Exploiting exogenous variation in the introduction of mayoral re-election in Mexico using a difference-in-differences design and a novel dataset on violence against local politicians, I show that criminal groups disproportionately killed rival candidates in places where incumbents could run for ree-lection, maintaining the status quo and keeping incumbents in power. Further, re-electable mayors were more likely be found to engage in corruption following the introduction of re-election, only in high-crime areas. This letter highlights the unintended consequences of institutional reforms in high-crime areas, emphasizing the need for tailored guardrails by policy-makers to reduce these collateral effects.
 </details>
 
-* _Keywords:_ reelection; institutional reform; organized crime; criminal violence; elections; Mexico
+* _Keywords:_ criminal violence; Mexico; re-election; mayoral assassination; corruption
 
 
 
