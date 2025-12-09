@@ -38,6 +38,22 @@ _Under Review._ [Pdf.](https://www.dropbox.com/scl/fi/66dsowaubwz4km9tz894c/Well
 
  * _Keywords:_ Loyalist paramilitaries; UDA; UVF; collusion; pro-government militias; qualitative research; Northern Ireland
 
+
+### "Late Stage Colonialism: Repression and Resistance during the Era of Nation-States"
+
+ * _Written with:_ Daniel Arnon and Michael Rubin
+
+_Under Review._ 
+
+<details>
+  <summary>Abstract</summary>
+     How and why do colonial regimes vary their repertoires of repression within the colonial domain? While regimes are more likely to repress communities with greater anti-colonial resistance activity, there remains substantial variation in the intensity and form (selective vs. indiscriminate) of repression. We argue that local economic value and political opportunity structures are critical factors shaping patterns of colonial repression. In economically valuable areas, colonial authorities invest in public goods and cultivate alliances with local elites. This reduces locals' incentives for resistance, thereby reducing the likelihood of repression overall, while also increasing the regime's incentives and capabilities to deploy selective repression when resistance violence does occur. In peripheral areas, the regime under-invests in governance and intermediary relationships, which lowers the cost of resistance and restricts the regime's capability to repress selectively, increasing the likelihood of lower-cost indiscriminate collective targeting. We evaluate this argument in the context of British Mandate Palestine, where colonial authorities confronted widespread anti-colonial mobilization during the 1936–1939 Arab Revolt. Drawing upon British, Israeli, and Palestinian archival sources, we construct a dataset measuring local-level variation in village-level politics, economics, and repression across hundreds of communities. The findings advance understanding of colonial governance and coercive state-building by showing how regimes combine violence and co-optation to manage resistance and secure their political and extractive interests.
+
+</details>
+
+ * _Keywords:_ Colonial rule; repression; British Mandate Palestine; archival records
+
+
 ### "Empires of Blood and Ruin: Colonial Repression and Criminal Actors in British India"
 
 [Pdf.](https://www.dropbox.com/scl/fi/7so36bg58kyjg49jmzwaq/Weller_JMP.pdf?rlkey=kaf4cxzybnlt2n1nkwjnpdwsj&st=dif0y938&dl=0)
@@ -76,18 +92,6 @@ How do colonial regimes use selective repression to manage elite agents and cons
 
  * _Keywords:_ Accountability; public goods provision; corporate governance; Mozambique; LNG
 
-
-### "Late Stage Colonialism: Repression and Resistance during the Era of Nation-States"
-
- * _Written with:_ Daniel Arnon and Michael Rubin
-
-<details>
-  <summary>Abstract</summary>
-     How and why do colonial regimes vary their repertoires of repression within the colonial domain? While regimes are more likely to repress communities with greater anti-colonial resistance activity, there remains substantial variation in the intensity and form (selective vs. indiscriminate) of repression. We argue that local economic value and political opportunity structures are critical factors shaping patterns of colonial repression. In economically valuable areas, colonial authorities invest in public goods and cultivate alliances with local elites. This reduces locals' incentives for resistance, thereby reducing the likelihood of repression overall, while also increasing the regime's incentives and capabilities to deploy selective repression when resistance violence does occur. In peripheral areas, the regime under-invests in governance and intermediary relationships, which lowers the cost of resistance and restricts the regime's capability to repress selectively, increasing the likelihood of lower-cost indiscriminate collective targeting. We evaluate this argument in the context of British Mandate Palestine, where colonial authorities confronted widespread anti-colonial mobilization during the 1936–1939 Arab Revolt. Drawing upon British, Israeli, and Palestinian archival sources, we construct a dataset measuring local-level variation in village-level politics, economics, and repression across hundreds of communities. The findings advance understanding of colonial governance and coercive state-building by showing how regimes combine violence and co-optation to manage resistance and secure their political and extractive interests.
-
-</details>
-
- * _Keywords:_ Colonial rule; repression; British Mandate Palestine; archival records
 
  
 
@@ -131,6 +135,7 @@ How do criminal groups govern? While our understanding of governance by criminal
 </details>
 
  * _Keywords:_ Criminal Governance; Latin America; Natural Language Processing; supervised machine learning
+
 
 
 
