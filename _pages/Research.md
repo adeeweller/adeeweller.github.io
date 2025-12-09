@@ -9,7 +9,7 @@ title: "Research"
 > ## Publications
 
   
-### Weller, Adee. 2025. ["Defending the Status Quo? How Re-election Shapes Criminal Collusion in Mexico."](https://www-cambridge-org/core/journals/british-journal-of-political-science/article/defending-the-status-quo-how-reelection-shapes-criminal-collusion-in-mexico/4704514BABCBB03E6DCC60161112CE8D?utm_date=20251030&utm_id=1761812774&utm_campaign=JPS,Open%20Access&utm_source=bluesky&utm_medium=social&utm_content) _British Journal of Political Science_ 55:e144. doi:10.1017/S0007123425100896 [Pdf.](https://www.dropbox.com/scl/fi/tzj1w8myf49f51onpnyya/defending-the-status-quo-how-re-election-shapes-criminal-collusion-in-mexico.pdf?rlkey=1k380lsnwdun0cf794q012j22&st=l1qjdukn&dl=0) [Appendix.](https://www.dropbox.com/scl/fi/gpjqkk0rusqy3xhwhogou/BJPolS_Final_SI.pdf?rlkey=e3s1t8o154b6aihnlp6pykit4&st=mthlcmcs&dl=0)
+### Weller, Adee. 2025. ["Defending the Status Quo? How Re-election Shapes Criminal Collusion in Mexico."](https://www-cambridge-org/core/journals/british-journal-of-political-science/article/defending-the-status-quo-how-reelection-shapes-criminal-collusion-in-mexico/4704514BABCBB03E6DCC60161112CE8D?utm_date=20251030&utm_id=1761812774&utm_campaign=JPS,Open%20Access&utm_source=bluesky&utm_medium=social&utm_content) _British Journal of Political Science_ 55:e144. [Pdf.](https://www.dropbox.com/scl/fi/tzj1w8myf49f51onpnyya/defending-the-status-quo-how-re-election-shapes-criminal-collusion-in-mexico.pdf?rlkey=1k380lsnwdun0cf794q012j22&st=l1qjdukn&dl=0) [Appendix.](https://www.dropbox.com/scl/fi/gpjqkk0rusqy3xhwhogou/BJPolS_Final_SI.pdf?rlkey=e3s1t8o154b6aihnlp6pykit4&st=mthlcmcs&dl=0)
 
 <details>
   <summary>Abstract</summary>
@@ -131,6 +131,7 @@ How do criminal groups govern? While our understanding of governance by criminal
 </details>
 
  * _Keywords:_ Criminal Governance; Latin America; Natural Language Processing; supervised machine learning
+
 
 
 
