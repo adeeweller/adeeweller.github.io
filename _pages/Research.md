@@ -27,7 +27,7 @@ Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
 
 ### "Violence Incorporated? State Response to Pro-Government Militias in Northern Ireland"
 
- * _Written with:_ Danielle Villa, Emily Gade, and Sarah Dreier
+ * _Written with:_ Danielle Villa, [Emily Gade](https://emilykgade.com/), and [Sarah Dreier](https://skdreier.weebly.com/)
 
 _Under Review._ [Pdf.](https://www.dropbox.com/scl/fi/66dsowaubwz4km9tz894c/Weller_PGMs_Ireland.pdf?rlkey=gnnjfg13sq5t25fbpdaaxvdvj&st=p2g7p01r&dl=0)
 
@@ -41,7 +41,7 @@ _Under Review._ [Pdf.](https://www.dropbox.com/scl/fi/66dsowaubwz4km9tz894c/Well
 
 ### "The Politics of Punishment in Mandate Palestine: Administrative Capacity, Social Cleavages, and the Repertoires of Colonial Repression"
 
- * _Written with:_ Daniel Arnon and Michael Rubin
+ * _Written with:_ [Daniel Arnon](https://sgpp.arizona.edu/person/daniel-arnon) and [Michael Rubin](https://www.michaelarubin.com/)
 
 _Under Review._ 
 
@@ -68,7 +68,7 @@ How do colonial regimes use selective repression to manage elite agents and cons
 
 ### "Echoes of Intervention: Conflict in the Interim of the Multinational Security Support Mission in Haiti"
 
- * _Written with:_ Martin Castillo Quintana, Camila Contreras, and Mathias Lusquinos. [Pdf.](https://www.dropbox.com/scl/fi/q2l66zmfb12h9qindja8r/Echoes_of_Intervention_09252025.pdf?rlkey=ahe6fkdtez5cjohkrioiwo6a6&st=wh80cf8f&dl=0)
+ * _Written with:_ [Martin Castillo Quintana](https://sites.google.com/view/martin-castillo-quintana/home?pli=1), [Camila Contreras](https://sites.google.com/view/camilacontrerasm/about), and Mathias Lusquinos. [Pdf.](https://www.dropbox.com/scl/fi/q2l66zmfb12h9qindja8r/Echoes_of_Intervention_09252025.pdf?rlkey=ahe6fkdtez5cjohkrioiwo6a6&st=wh80cf8f&dl=0)
 
 <details>
   <summary>Abstract</summary>
@@ -79,9 +79,9 @@ How do colonial regimes use selective repression to manage elite agents and cons
  * _Keywords:_ Haiti; Gang Violence; Signaling; ITS; MSS; Kenyan Intervention
 
 
-### "How Corporate Goods Provision Shapes Accountability and Participation: Evidence from Cabo Delgado"
+### "Unelected Providers: How does Foreign Corporate Goods Provision Shape Political Participation?"
 
- * _Written with:_ Gavin Kiger, Americo Maluana, William Wainwright, and Danielle Jung
+ * _Written with:_ Gavin Kiger, Americo Maluana, William Wainwright, and [Danielle Jung](https://www.daniellejung.com/)
 
 <details>
   <summary>Abstract</summary>
@@ -92,25 +92,20 @@ How do colonial regimes use selective repression to manage elite agents and cons
  * _Keywords:_ Accountability; public goods provision; corporate governance; Mozambique; LNG
 
 
- 
 
 > ## Works in Progress
 
+### "Empires of Blood and Ruin: How Criminal Violence Shapes State Formation" (_Book Project_) 
+
 ### "Understanding Gang Reactions to International Humanitarian Intervention in Haiti"
 
- * _Written with:_ Martin Castillo Quintana and Reynell Badillo Sarmiento
+ * _Written with:_ [Martin Castillo Quintana](https://sites.google.com/view/martin-castillo-quintana/home?pli=1) and Reynell Badillo Sarmiento
 
-### "Divergent Accountability? Competing Principals and Incomplete Contracts"
-
-### "Informal Empire and Elite Manipulation in Northern India"
+### "Informal Empire: How to Coerce Your Allies and Manipulate Your Friends"
 
 ### "Resource Extraction and the Displacement of Conflict in Northern Mozambique"
 
  * _Written with:_ Gavin Kiger, Americo Maluana, William Wainwright, and Danielle Jung
-
-### "Election Branding and Public Trust: The Role of Image in Shaping Voter Confidence"
-
- * _Written with:_ Anthony DeMattee
 
 ### "Providence"
 
@@ -134,6 +129,7 @@ How do criminal groups govern? While our understanding of governance by criminal
 </details>
 
  * _Keywords:_ Criminal Governance; Latin America; Natural Language Processing; supervised machine learning
+
 
 
 
