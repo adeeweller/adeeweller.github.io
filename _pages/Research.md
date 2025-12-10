@@ -53,7 +53,7 @@ _Under Review._
  * _Keywords:_ Colonial rule; repression; British Mandate Palestine; archival records
 
 
-### "Empires of Blood and Ruin: Colonial Repression and Criminal Actors in British India"
+### "Empires of Blood and Ruin: Selective Protection and Control in Colonial Regimes"
 
 [Pdf.](https://www.dropbox.com/scl/fi/7so36bg58kyjg49jmzwaq/Weller_JMP.pdf?rlkey=kaf4cxzybnlt2n1nkwjnpdwsj&st=dif0y938&dl=0)
 
@@ -129,6 +129,7 @@ How do criminal groups govern? While our understanding of governance by criminal
 </details>
 
  * _Keywords:_ Criminal Governance; Latin America; Natural Language Processing; supervised machine learning
+
 
 
 
