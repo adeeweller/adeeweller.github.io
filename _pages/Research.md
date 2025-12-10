@@ -79,9 +79,9 @@ How do colonial regimes use selective repression to manage elite agents and cons
  * _Keywords:_ Haiti; Gang Violence; Signaling; ITS; MSS; Kenyan Intervention
 
 
-### "Unelected Providers: How does Foreign Corporate Goods Provision Shape Political Participation?"
+### "Do Election Observers Increase Trust in Democracies?: Messenger Effects from a National Experiment in the United States"
 
- * _Written with:_ Gavin Kiger, Americo Maluana, William Wainwright, and [Danielle Jung](https://www.daniellejung.com/)
+ * _Written with:_ Nicklas Stein, Emily Carrillo and [Anthony J. DeMattee](https://www.demattee.com/)
 
 <details>
   <summary>Abstract</summary>
@@ -89,8 +89,20 @@ How do colonial regimes use selective repression to manage elite agents and cons
 
 </details>
 
- * _Keywords:_ Accountability; public goods provision; corporate governance; Mozambique; LNG
+ * _Keywords:_ Elections; election observers; trust in institutions; polarization; democracy; survey experiment
 
+
+### "Unelected Providers: How does Foreign Corporate Goods Provision Shape Political Participation?"
+
+ * _Written with:_ Gavin Kiger, Americo Maluana, William Wainwright, and [Danielle Jung](https://www.daniellejung.com/)
+
+<details>
+  <summary>Abstract</summary>
+    American voters' trust in the integrity and accuracy of national, state, and local elections has declined rapidly in the past decade, despite no clear evidence of fraud, in a trend mirrored across the globe. In other countries, election observers (EOs) play a key role in providing voters with reliable information on fraud and abuse, yet Americans are unaccustomed to them, and it is unclear how EOs shape Americans' perceptions of electoral integrity. We explore how an electoral observer's \textit{identity} affects Americans' trust in elections using a pre-registered, randomized controlled trial on a nationally representative survey of 7,032 U.S. respondents. By varying the group-level identity of EOs, including their international and partisan reputations, we show that non-partisan election observers significantly improve Americans' trust in elections and support for democratic norms, while concerns about partisan EOs are accelerated by pre-existing polarized beliefs and can even undermine trust in electoral institutions. To verify quantitative findings, we use adaptive-LLM questions to draw out participants' thinking. While voters quantitatively report trust in their personal experiences with elections, they voice deep anxiety about the future security of elections and democratic stability, particularly through partisan lenses. Our theory and findings show that the messenger, not just the message, shapes Americans' evaluations of democratic processes, and emphasize non-partisan transparency as a tool to mitigate skepticism toward domestic institutions. This research expands our understanding of how electoral legitimacy is constructed in polarized contexts and how institutional trust can be reinforced.
+
+</details>
+
+ * _Keywords:_ Accountability; public goods provision; corporate governance; Mozambique; LNG
 
 
 > ## Works in Progress
@@ -129,6 +141,7 @@ How do criminal groups govern? While our understanding of governance by criminal
 </details>
 
  * _Keywords:_ Criminal Governance; Latin America; Natural Language Processing; supervised machine learning
+
 
 
 
