@@ -13,25 +13,11 @@ classes: wide
 **Welcome!** <br /> <br /> I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). <br />
 
 
-I study how states govern in fragmented and contested settings by outsourcing coercive power to actors such as criminal organizations, pro-government militias, and multinational corporations. These groups that do not seek to overthrow the state but nonetheless profoundly shape its development. Drawing on archival research, fieldwork, causal inference, and large-scale text analysis, I examine these dynamics across diverse contexts including Mexico, Mozambique, Northern Ireland, Haiti, and Bengal.
+    My research examines how states govern through violence and non-state intermediaries, with a focus on criminal groups, militias, and other armed actors. I study how these relationships shape state capacity, democratic accountability, and civilian security across both historical and contemporary contexts.
+
 <br /> 
-
-My dissertation investigates how authorities leverage criminal violence as a tool of coercion to manipulate elite coalitions and sustain extractive governance, drawing on a novel collection of internal documents from the English East India Company (1769–1773). I have received funding for this through the [National Science Foundation](https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/) and the American Political Science Association (DDRIG).
-<br /> 
-     
-Across my projects, I employ a multi-method empirical approach that includes:
-
-- Deep learning techniques (computer vision and natural language processing).
-- Design-based causal inference.
-- Archival analysis and qualitative process tracing.
-<br /> 
-
-Some other current projects include:
-
-- How the introduction of mayoral reelection in Mexico affects criminal infiltration into elections.
-- Why the British state collaborated with Loyalist militias during the Troubles in Northern Ireland, using declassified conversations among top officials.
-- How natural resource shocks in Mozambique shape infrastructure investment and illicit economies.
-- How the anticipation of international military intervention shapes gang violence and civilian mobility in Haiti.
+    My work combines archival research, causal inference, and survey experiments, and draws on evidence from Mexico, British India, Northern Ireland, Haiti, and Mozambique.
+       
 <br /> 
 
 As a co-founder of Women in [Political Science at Emory (WiPS-E)](https://x.com/WomeninPSEmory), I am committed to building and empowering a diverse and inclusive research community that reaches across both academic and policy networks.
