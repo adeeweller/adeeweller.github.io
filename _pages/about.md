@@ -19,7 +19,7 @@ I am a Ph.D. candidate in the [Department of Political Science](http://polisci.e
 
 My research examines how states govern through violence and non-state intermediaries, with a focus on criminal groups, militias, and other armed actors. I study how these relationships shape state capacity, democratic accountability, and civilian security across both historical and contemporary contexts.
 
-I combine archival research, causal inference, and survey experiments, and draw on evidence from Mexico, British India, Northern Ireland, Haiti, and Mozambique. My research has been published in the *British Journal of Political Science* and is supported by the National Science Foundation and the Pearson Institute for Global Governance.
+I combine archival research and causal inference with mixed-methods approaches, drawing upon evidence from Mexico, British India, Northern Ireland, Haiti, and Mozambique. My research has been published in the *British Journal of Political Science* and is supported by the National Science Foundation and the Pearson Institute for Global Governance.
 
 As a co-founder of Women in [Political Science at Emory (WiPS-E)](https://x.com/WomeninPSEmory), I am committed to building and empowering a diverse and inclusive research community that bridges academic and policy networks.
 
