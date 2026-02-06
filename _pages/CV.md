@@ -12,7 +12,7 @@ classes: wide
 </iframe>
 
 <p style="text-align: center; margin-top: 1rem;">
-  <a href="https://www.dropbox.com/scl/fi/onj0rs4edjh9xiw2fbf2g/CV_Weller2.pdf?rlkey=gyyreete4y1sk219y8ky7xlph&dl=1">
+  <a href="https://www.dropbox.com/scl/fi/7mlaan02e9je4f0zo383o/CV_Weller2.pdf?rlkey=5h74epo5buau2muizkq4p4m1v&st=k689c1l1&dl=0">
     Download PDF
   </a>
 </p>
