@@ -8,7 +8,7 @@ classes: wide
 feature_row:
   - image_path: /assets/images/Weller_fix_1.jpg
 
-    excerpt: " **Welcome!** <br /> <br /> I am a Ph.D. candidate in the [Department of Political Science](http://polisci.emory.edu/home/index.html) at [Emory University](https://www.emory.edu/home/index.html). In Fall 2026, I will join the [Department of Political Science](https://polisci.la.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/) as an Assistant Professor. <br />  <br />
+    excerpt: " **Welcome!** <br /> <br /> I received my Ph.D. in Political Science from [Emory University](https://www.emory.edu/home/index.html). In Fall 2026, I will join the [Department of Political Science](https://polisci.la.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/) as an Assistant Professor.  <br />  <br />
 
     My research examines how states govern through violence and non-state intermediaries, with a focus on criminal groups, militias, and other armed actors. I study how these relationships shape state capacity, democratic accountability, and civilian security across both historical and contemporary contexts.
     <br /> <br />
