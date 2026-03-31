@@ -15,7 +15,7 @@ title: "Teaching"
 
 *Emory University*
 
-* Principles of Political Science (Undergraduate, Co-Instructor with Dr. Danielle Jung, Fall 2023) [[syllabus]](https://www.dropbox.com/scl/fi/3dp34mh6ppso01375n1dp/POLS_111_F2023.pdf?rlkey=qpkrw0388b0vjisspekycvkcy&dl=0)
+* Principles of Political Science (Undergraduate, co-Instructor with Dr. Danielle Jung, Fall 2023) [[syllabus]](https://www.dropbox.com/scl/fi/3dp34mh6ppso01375n1dp/POLS_111_F2023.pdf?rlkey=qpkrw0388b0vjisspekycvkcy&dl=0)
 * R Workshop and Technology Bootcamp (Graduate, co-instructor with Eddy Yeung, Fall 2023-Spring 2024)
 * Political Violence (Undergraduate, Guest Lecturer, Fall 2023)
 * Emerging Security Studies Fellow Program (Instructor, Carnegie Institute of New York, Fall 2023)
