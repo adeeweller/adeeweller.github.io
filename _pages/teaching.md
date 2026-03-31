@@ -6,45 +6,32 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+## Recent Courses
 
-## Courses I'd Like to Teach
+*Pennsylvania State University*
 
-* Introduction to Comparative Politics and International Relations
-* Illicit Economies [[sample syllabus]](https://www.dropbox.com/scl/fi/fev07z14hvrxgnn0uww60/sample_syllabus_Weller_24.pdf?rlkey=knwg7a0ifzun3bj5pibt3is23&st=3f9usrsw&dl=0)
-* Political Violence and State-Building [[sample syllabus]](https://www.dropbox.com/scl/fi/sy2h14bc50qcquwl5iobq/Political_Violence_and_State_Building.pdf?rlkey=vykxld39cpqh7u2nqpvhgxw3q&st=21whqbxd&dl=0)
-* Criminal Governance
-* Electoral Politics
-* Politics in the Global South
-* Colonialism and its Consequences
-* Empirical and Research Methods (graduate and undergraduate)
-* Applying AI to Research in Political Science
+Violence and State-Building (Graduate)
+
+The Politics of Terrorism (Undergraduate)
 
 
-
-## Teaching Experience
+*Emory University*
 
 * Instructor of Record for POLS 111: Principles of Political Science with Dr. Danielle Jung (Co-Instructor, Fall 2023) [[syllabus]](https://www.dropbox.com/scl/fi/3dp34mh6ppso01375n1dp/POLS_111_F2023.pdf?rlkey=qpkrw0388b0vjisspekycvkcy&dl=0)
-  * Interdisciplinary course that explores broad questions about what politics is, why political groups form and break apart, and how group-level decisions are made. Brings abstract questions into grounded reality.
 
 * Instructor for R Workshop (Graduate level, with Eddy Yeung, Fall 2023-Spring 2024)
-  * Hands-on R workshop for graduate students to learn best coding practices, how to clean and manage complex databases, and advanced R techniques. 
 
 * Instructor for Technology Bootcamp (Graduate level, with Eddy Yeung, Fall 2023-Spring 2024)
-  * Crash course on the best practices for software such as R, LaTeX, python, and text editors, as well as citation managers and other organizational software. See below for code.
 
 * Guest Lecturer for POLS 320: Political Violence with Dr. Caroline Brandt (Fall 2023)
-  * Lead lecture and discussion on how organized crime shapes local politics in Mexico, with implications for governance elsewhere.
 
 * Instructor for Emerging Security Studies Fellow Program (Carnegie Institute of New York, Fall 2023)
-  * Led lecture and discussion on what security studies are, how history has shaped them, and their implications for public policy.
 
-* TA for POLS 208: Research Design and Methods with Dr. Carly Potz-Nielsen (Spring 2023)
-  * Fundamental concepts and quantitative techniques of empirical political inquiry. Introduction to concepts of measurement, parametric, and non-parametric statistics.
+<!-- * TA for POLS 208: Research Design and Methods with Dr. Carly Potz-Nielsen (Spring 2023)
 
-* Grader for POLS 110: Introduction to International Politics with Dr. David Davis III (Spring 2022)
-  * Introduction to analytical concepts, the nature of the interstate system, the assumptions and ideas of diplomacy, the determinants of foreign policy.
+* Grader for POLS 110: Introduction to International Politics with Dr. David Davis III (Spring 2022) -->
 
-* Organized and led a small team of undergraduates (from sophomores to seniors) from Fall 2021 to present. We have worked on the following projects:
+* Principal Investigator, Political Science 399R 
   * Electoral Integrity Project (EIP) 
   * Criminal Governance in the News
   * Digitizing Private Correspondence from the East India Company (1769-1773)
