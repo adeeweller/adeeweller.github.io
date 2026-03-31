@@ -19,8 +19,6 @@ title: "Teaching"
 * R Workshop and Technology Bootcamp (Graduate, co-instructor with Eddy Yeung, Fall 2023-Spring 2024)
 * Political Violence (Undergraduate, Guest Lecturer, Fall 2023)
 * Emerging Security Studies Fellow Program (Instructor, Carnegie Institute of New York, Fall 2023)
-<!-- * TA for POLS 208: Research Design and Methods with Dr. Carly Potz-Nielsen (Spring 2023)
-* Grader for POLS 110: Introduction to International Politics with Dr. David Davis III (Spring 2022) -->
 * Political Science 399R (Principal Investigator, Fall 2021-Spring 2026)
   * Electoral Integrity Project (EIP) 
   * Criminal Governance in the News
