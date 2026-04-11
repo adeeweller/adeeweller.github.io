@@ -1,7 +1,7 @@
 ---
 toc: false
 tocsticky: false
-author_profile: false
+author_profile: true
 permalink: /research/
 title: "Research"
 classes: wide
