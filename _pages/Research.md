@@ -25,25 +25,11 @@ How does the introduction of mayoral re-election shape organized crime's efforts
 
 Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
 
-### "Violence Incorporated? State Response to Pro-Government Militias in Northern Ireland"
-
- * _Written with:_ Danielle Villa, [Emily Gade](https://emilykgade.com/), and [Sarah Dreier](https://skdreier.weebly.com/)
-
-_Under Review._ [Pdf.](https://www.dropbox.com/scl/fi/66dsowaubwz4km9tz894c/Weller_PGMs_Ireland.pdf?rlkey=gnnjfg13sq5t25fbpdaaxvdvj&st=p2g7p01r&dl=0)
-
-<details>
-  <summary>Abstract</summary>
-    Why do states deeply collude with some pro-government militias (PGMs), while merely tolerating or repressing others? We develop a theory of selective state-militia collaboration, arguing that states weigh PGMs' coercive utility against risks of future disloyalty. Drawing on 8,430 declassified documents from the British Prime Minister’s security correspondence files (1969–1973), we examine how the British government navigated these trade-offs during the Northern Ireland conflict. We show that states are more likely to form deep alliances with PGMs seen as both militarily useful and reliably loyal. When loyalty is uncertain, even highly capable PGMs receive only tactical or limited support. Acute survival threats, conversely, can override long-term concerns and prompt collaboration with politically misaligned groups. By offering the first internal account of how a state assessed and managed PGMs during an ongoing conflict, this study contributes to research on civil conflict, state repression, and the strategic use of informal violence.
-</details>
-
- * _Keywords:_ Loyalist paramilitaries; UDA; UVF; collusion; pro-government militias; qualitative research; Northern Ireland
-
-
 ### "The Politics of Punishment in Mandate Palestine: Administrative Capacity, Social Cleavages, and the Repertoires of Colonial Repression"
 
  * _Written with:_ [Daniel Arnon](https://sgpp.arizona.edu/person/daniel-arnon) and [Michael Rubin](https://www.michaelarubin.com/)
 
-_Under Review._ 
+_Revise and Resubmit._ 
 
 <details>
   <summary>Abstract</summary>
@@ -55,7 +41,7 @@ _Under Review._
 
 ### "Empires of Blood and Ruin: Selective Protection and Control in Colonial Regimes"
 
-[Pdf.](https://www.dropbox.com/scl/fi/7so36bg58kyjg49jmzwaq/Weller_JMP.pdf?rlkey=kaf4cxzybnlt2n1nkwjnpdwsj&st=dif0y938&dl=0)
+_Under Review._ 
 
 <details>
   <summary>Abstract</summary>
@@ -64,6 +50,17 @@ How do colonial regimes use selective repression to manage elite agents and cons
 </details>
 
  * _Keywords:_ Colonial state-building; strategic repression; crime regulation; English East India Company; archival evidence
+
+### "Violence Incorporated? How States Discern Between Pro-Government Militias"
+
+ * _Written with:_ Danielle Villa, [Emily Gade](https://emilykgade.com/), and [Sarah Dreier](https://skdreier.weebly.com/)
+
+<details>
+  <summary>Abstract</summary>   
+Why do states deeply collude with some pro-government militias (PGMs) while keeping others at arm's length? We argue that states collude more closely with PGMs which not only provide coercive benefits, but can provide outsourced governance to specific communities and enforce order. Particularly salient in democratic regimes, this delegated governance provides administrations with plausible deniability, access to localized information, and outsources control of community-level revolt and resistance. Using 8,430 declassified documents from the British Prime Minister's security correspondence files (1969–1973), we examine how the British government managed these trade-offs during the Northern Ireland conflict. We show that states are most likely to form deep alliances with PGMs viewed as both militarily effective and could govern Protestant communities. When governability is uncertain, even highly capable PGMs receive only limited or tactical support. By providing the first internal account of how a democratic state amassed and managed PGMs during an active conflict, this study emphasizes the role of armed, non-state groups in shaping the reach of state governance and how these groups can both challenge and extend state capacity. 
+</details>
+
+ * _Keywords:_ Loyalist paramilitaries; UDA; UVF; collusion; pro-government militias; qualitative research; Northern Ireland
 
 
 ### "Echoes of Intervention: Conflict in the Interim of the Multinational Security Support Mission in Haiti"
@@ -98,11 +95,10 @@ How do colonial regimes use selective repression to manage elite agents and cons
 
 <details>
   <summary>Abstract</summary>
-    American voters' trust in the integrity and accuracy of national, state, and local elections has declined rapidly in the past decade, despite no clear evidence of fraud, in a trend mirrored across the globe. In other countries, election observers (EOs) play a key role in providing voters with reliable information on fraud and abuse, yet Americans are unaccustomed to them, and it is unclear how EOs shape Americans' perceptions of electoral integrity. We explore how an electoral observer's \textit{identity} affects Americans' trust in elections using a pre-registered, randomized controlled trial on a nationally representative survey of 7,032 U.S. respondents. By varying the group-level identity of EOs, including their international and partisan reputations, we show that non-partisan election observers significantly improve Americans' trust in elections and support for democratic norms, while concerns about partisan EOs are accelerated by pre-existing polarized beliefs and can even undermine trust in electoral institutions. To verify quantitative findings, we use adaptive-LLM questions to draw out participants' thinking. While voters quantitatively report trust in their personal experiences with elections, they voice deep anxiety about the future security of elections and democratic stability, particularly through partisan lenses. Our theory and findings show that the messenger, not just the message, shapes Americans' evaluations of democratic processes, and emphasize non-partisan transparency as a tool to mitigate skepticism toward domestic institutions. This research expands our understanding of how electoral legitimacy is constructed in polarized contexts and how institutional trust can be reinforced.
-
+How does the provision of public goods by foreign corporations, rather than state actors, shape electoral engagement? Public goods are often cited as a core feature of local democratic accountability, with voters rewarding or sanctioning elected officials according to the goods they receive and politicians prioritizing public goods and investments to maximize electoral benefits. Yet, when corporations, rather than state actors, provide these goods, this can weaken traditional mechanisms of accountability. Under these conditions, voting neither sanctions nor rewards public goods, and politicians can gain political and electoral support from powerful corporate actors. Thus, this provision undermines the value and importance of electoral participation and reduces voter turnout, particularly when voting is costly. We examine the multinational corporate provision of public goods in Northern Mozambique, following the discovery of liquefied natural gas (LNG) in 2006, utilizing a novel collection of concession agreements between the Mozambican government and multinational corporations and an original household survey of residents in Cabo Delgado. We show that, following substantial investments in public infrastructure in areas relevant to LNG extraction, voters were much less likely to vote or campaign, while other non-electoral activities were not affected. This project offers insight into how multinational corporate actors indirectly shape democratic engagement, particularly in developing countries. 
 </details>
 
- * _Keywords:_ Accountability; public goods provision; corporate governance; Mozambique; LNG
+ * _Keywords:_ Mozambique; accountability; corporations; public goods; voting; non-state governance; LNG; concession agreements; survey
 
 
 > ## Works in Progress
