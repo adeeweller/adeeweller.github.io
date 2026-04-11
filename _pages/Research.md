@@ -65,7 +65,7 @@ Why do states deeply collude with some pro-government militias (PGMs) while keep
 
 ### "Echoes of Intervention: Conflict in the Interim of the Multinational Security Support Mission in Haiti"
 
- * _Written with:_ [Martin Castillo Quintana](https://sites.google.com/view/martin-castillo-quintana/home?pli=1), [Camila Contreras](https://sites.google.com/view/camilacontrerasm/about), and Mathias Lusquinos. [Pdf.](https://www.dropbox.com/scl/fi/q2l66zmfb12h9qindja8r/Echoes_of_Intervention_09252025.pdf?rlkey=ahe6fkdtez5cjohkrioiwo6a6&st=wh80cf8f&dl=0)
+ * _Written with:_ [Martin Castillo Quintana](https://sites.google.com/view/martin-castillo-quintana/home?pli=1), [Camila Contreras](https://sites.google.com/view/camilacontrerasm/about), and Mathias Lusquinos. 
 
 <details>
   <summary>Abstract</summary>
