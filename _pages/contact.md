@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 ## Email
-You can reach me at adee[dot]weller[at]emory[dot]edu
+You can reach me at adee[dot]weller[at]psu[dot]edu
 
 ## Mailing Address
-1555 Dickey Drive \\
-Tarbutton Hall, Room 327 \\
-Atlanta, GA, 30322
+441 Susan Welch Liberal Arts Building \\
+137 Fischer Road, \\
+University Park, PA 16802
