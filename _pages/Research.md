@@ -70,7 +70,7 @@ Why do states deeply collude with some pro-government militias (PGMs) while keep
 
 <details>
   <summary>Abstract</summary>
-       Foreign military interventions in fragile states often echo earlier eras of imperial policing by projecting power into contested spaces under the banner of order. This paper examines how the anticipation of such an intervention, rather than its physical presence, alters the strategic behavior of armed criminal groups and constrains civilian life. Focusing on the U.N. Multinational Security Support (MSS) Mission in Haiti (2023–2024), we exploit a daily panel of commune-level data on gang violence, using data from ACLED, Haitian press reports, and Flowminder mobile-phone mobility records, to trace the impact of five exogenous information shocks on the mission's likelihood and timing. We find that as the intervention appeared more imminent, gangs reduced inter-gang clashes and forged tactical alliances, redirected violence toward the state, and escalated remote attacks on infrastructure. These anticipatory shifts had immediate civilian consequences, as heightening violence reduced both intra- and inter-communal movement, revealing how violence shapes everyday mobility. By integrating high-frequency measures of both violence and movement, this study contributes to research on the consequences of external security governance, showing that the pre-deployment phase of intervention is a politically charged period in which armed actors and civilians adapt in ways that can entrench insecurity before the first foreign boots touch the ground. 
+      How do international, armed, humanitarian interventions shape gang violence in fragile security environments? Focusing on the U.N. Multinational Security Support (MSS) Mission in Haiti (2023--present), we exploit a daily panel of commune-level data on gang violence, using data from ACLED and Haitian press reports, to trace the impact of five exogenous information shocks on the mission's likelihood and timing. We find that as the intervention appeared more imminent, gangs reduced inter-gang clashes and forged tactical alliances, redirected violence toward the state, and escalated remote attacks on infrastructure. By integrating high-frequency measures of gang violence across multiple actor types, this study contributes to research on the consequences of external security governance, showing that the pre-deployment phase of intervention is a politically charged period in which armed criminal actors adapt in ways that can entrench insecurity before the first foreign boots touch the ground.
 
 </details>
 
@@ -100,6 +100,20 @@ How does the provision of public goods by foreign corporations, rather than stat
 </details>
 
  * _Keywords:_ Mozambique; accountability; corporations; public goods; voting; non-state governance; LNG; concession agreements; survey
+
+ 
+### "Gang Violence and Mobility Suppression in Haiti"
+
+ * _Written with:_ [Martin Castillo Quintana](https://sites.google.com/view/martin-castillo-quintana/home?pli=1), [Camila Contreras](https://sites.google.com/view/camilacontrerasm/about), and Mathias Lusquinos. 
+
+<details>
+  <summary>Abstract</summary>
+       How does criminal violence reshape how civilians move about their communities? While criminal violence is widely cited as a driver of displacement, we know much less about how gangs governing territory shape mobility in the short run. We argue that mobility is central to criminal governance. When gangs control neighborhoods, roads, and transport corridors, violence can function not only as a tool of punishment or competition, but also as a means of regulating civilian movement. As territorial order deteriorates, movement becomes both more suspect and more dangerous, producing short-run immobilization even as civilians’ incentives to leave rise. We examine this argument in Haiti, where gangs operate as de facto authorities across much of Port-au-Prince and surrounding areas. Using daily commune-level data on gang violence and anonymized mobility estimates derived by Flowminder from Digicel call detail records, we trace how violent events shape intra- and inter-commune movement. We find that gang violence produces immediate and significant declines in mobility, with each additional violent event depresses localized movements in the following days. The effects are shape both within- and across-commune travel and are especially large following attacks on infrastructure. The paper shows that gang violence can serve as a mechanism of territorial immobilization and provides insight into how civilians navigate criminally governed space.
+
+</details>
+
+ * _Keywords:_ Criminal governance; territorial control; civilian mobility; displacement; gang vio-
+lence; Haiti
 
 
 > ## Works in Progress
