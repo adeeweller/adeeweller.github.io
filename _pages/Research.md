@@ -30,7 +30,7 @@ Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
 
  * _Written with:_ [Daniel Arnon](https://sgpp.arizona.edu/person/daniel-arnon) and [Michael Rubin](https://www.michaelarubin.com/)
 
-_Revise and Resubmit._ 
+_Conditionally Accepted at International Interactions._ 
 
 <details>
   <summary>Abstract</summary>
@@ -42,7 +42,7 @@ _Revise and Resubmit._
 
 ### "Empires of Blood and Ruin: Selective Protection and Control in Colonial Regimes"
 
-_Under Review._ 
+_Revise and Resubmit._ 
 
 <details>
   <summary>Abstract</summary>
@@ -53,6 +53,8 @@ How do colonial regimes use selective repression to manage elite agents and cons
  * _Keywords:_ Colonial state-building; strategic repression; crime regulation; English East India Company; archival evidence
 
 ### "Violence Incorporated? How States Discern Between Pro-Government Militias"
+
+_Under Review._ 
 
  * _Written with:_ Danielle Villa, [Emily Gade](https://emilykgade.com/), and [Sarah Dreier](https://skdreier.weebly.com/)
 
