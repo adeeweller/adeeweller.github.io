@@ -20,17 +20,8 @@ How does the introduction of mayoral re-election shape organized crime's efforts
 
 * _Keywords:_ criminal violence; Mexico; re-election; mayoral assassination; corruption
 
+### Weller, Adee; [Daniel Arnon](https://sgpp.arizona.edu/person/daniel-arnon); [Michael Rubin](https://www.michaelarubin.com/). 2026. ["The Politics of Punishment in Mandate Palestine: Administrative Capacity, Social Cleavages, and the Repertoires of Colonial Repression."](https://www-tandfonline-com/doi/full/10.1080/03050629.2026.2723773#abstract) _International Interactions._ [Pdf with Appendix](https://www.dropbox.com/scl/fi/7fz8nfa7n07vk0q0r7c5s/The-politics-of-punishment-in-Mandate-Palestine-Administrative-capacity-social-cleavages-and-the-repertoires-of-colonial-repression.pdf?rlkey=mx9l36azv0jbjtj7row1yowfz&st=xvmpm27y&dl=0)
 
-
-> ## Working Papers
-
-Please [email me](mailto:adee.weller@emory.edu) for the latest drafts.
-
-### "The Politics of Punishment in Mandate Palestine: Administrative Capacity, Social Cleavages, and the Repertoires of Colonial Repression"
-
- * _Written with:_ [Daniel Arnon](https://sgpp.arizona.edu/person/daniel-arnon) and [Michael Rubin](https://www.michaelarubin.com/)
-
-_Conditionally Accepted at International Interactions._ 
 
 <details>
   <summary>Abstract</summary>
@@ -38,6 +29,12 @@ _Conditionally Accepted at International Interactions._
 </details>
 
  * _Keywords:_ Colonial rule; repression; British Mandate Palestine; archival records
+
+
+> ## Working Papers
+
+Please [email me](mailto:adee.weller@psu.edu) for the latest drafts.
+
 
 
 ### "Empires of Blood and Ruin: Selective Protection and Control in Colonial Regimes"
